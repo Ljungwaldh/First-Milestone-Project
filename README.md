@@ -50,6 +50,10 @@ Goals of customer for my website include:
 8. As an observer/potential customer, I want a clear and easy way of contacting the coach, so I can I can get in touch with him in regards to anything that doesn't concern the service request form, for example, any questions I have.
 As a returning customer, where I already know what I want, want to be able to easily navigate to the service request form
 
-####Wireframe Mockups
+#### Wireframe Mockups
 (to be added later)
+
+# Credits
+
+Photo by Milad B. Fakurian on Unsplash https://unsplash.com/photos/Sx__zWdWqPs
 
