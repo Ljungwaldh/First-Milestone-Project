@@ -1,0 +1,9 @@
+h1 {
+    color: red;
+}
+
+body {
+  background-image: url("/assets/images/bg-image-main.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
