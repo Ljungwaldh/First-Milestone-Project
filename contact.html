@@ -51,11 +51,11 @@
 <div class="container-fluid">
     <div class="row">
         <div class="col-4">
-            <h2>Have Any Question=</h2>
+            <h2>Have Any Question?</h2>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex, dolores illo. Facere quidem optio distinctio non, adipisci porro esse nam cupiditate ducimus minus excepturi illum doloribus repudiandae necessitatibus asperiores similique rerum ad veniam reiciendis, eum totam beatae architecto nobis accusamus. Alias velit pariatur rerum atque repellat. Ab culpa id ratione.</p>
         </div>
         <div class="col-4">
-            <h2>Want More Information</h2>
+            <h2>Want More Information?</h2>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex, dolores illo. Facere quidem optio distinctio non, adipisci porro esse nam cupiditate ducimus minus excepturi illum doloribus repudiandae necessitatibus asperiores similique rerum ad veniam reiciendis, eum totam beatae architecto nobis accusamus. Alias velit pariatur rerum atque repellat. Ab culpa id ratione.</p>
         </div>
         <div class="col-4">
@@ -65,65 +65,69 @@
     </div>
 </div>
 
-<form>
-  <div class="form-row">
-     <small id="trainingHelpBlock" class="form-text text-muted">
-  Indicate the type of coaching service you are interested in (optional)
-    </small>
-    <div class="form-check">
-        <input class="form-check-input" type="checkbox" value="" id="individualtraining">
-        <label class="form-check-label" for="individualtraining">
-            Individual Training
-        </label>
-    </div>
-    <div class="form-check">
-        <input class="form-check-input" type="checkbox" value="" id="grouptraining">
-        <label class="form-check-label" for="grouptraining">
-            Group Training
-        </label>
-    </div>
-    <div class="form-check">
-        <input class="form-check-input" type="checkbox" value="" id="teamtraining">
-        <label class="form-check-label" for="teamtraining">
-            Team Training
-        </label>
-    </div>
-    <div class="form-group col>
-      <label for="inputEmail4">Email</label>
-      <input type="email" class="form-control" id="inputEmail4">
-    </div>
-    <div class="form-group col>
-      <label for="inputPassword4">Password</label>
-      <input type="password" class="form-control" id="inputPassword4">
-    </div>
-  </div>
-  <div class="form-group">
-    <label for="inputAddress">Address</label>
-    <input type="text" class="form-control" id="inputAddress" placeholder="1234 Main St">
-  </div>
-  <div class="form-group">
-    <label for="inputAddress2">Address 2</label>
-    <input type="text" class="form-control" id="inputAddress2" placeholder="Apartment, studio, or floor">
-  </div>
-  <div class="form-row">
-    <div class="form-group col-md-6">
-      <label for="inputCity">City</label>
-      <input type="text" class="form-control" id="inputCity">
-    </div>
-    <div class="form-group col-md-4">
-      <label for="inputState">State</label>
-      <select id="inputState" class="form-control">
-        <option selected>Choose...</option>
-        <option>...</option>
-      </select>
-    </div>
-    <div class="form-group col-md-2">
-      <label for="inputZip">Zip</label>
-      <input type="text" class="form-control" id="inputZip">
-    </div>
-  </div>
+<form class="inline">
+    <div class="container">
+        <div class="row">
+            <div class="col-4">
+                <div class="form-group row">
+                    <div class="col">
+                        <div class="form-check">
+                            <input class="form-check-input" type="checkbox" value="" id="individualtraining">
+                            <label class="form-check-label" for="individualtraining">
+                                Individual Training
+                            </label>
+                        </div>
+                    </div>
+                </div>
+                <div class="form-group row">
+                    <div class="col">
+                        <div class="form-check">
+                            <input class="form-check-input" type="checkbox" value="" id="grouptraining">
+                            <label class="form-check-label" for="grouptraining">
+                                Group Training
+                            </label>
+                        </div>
+                    </div>
+                </div>
+                <div class="form-group row">
+                    <div class="col">
+                        <div class="form-check">
+                            <input class="form-check-input" type="checkbox" value="" id="teamtraining">
+                            <label class="form-check-label" for="teamtraining">
+                                Team Training
+                            </label>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-4">
+                <div class="form-group row">
+                    <div class="col">
+                        <input type="text" class="form-control" placeholder="Full Name" required>
+                    </div>
+                </div>
+                <div class="form-group row">
+                    <div class="col">
+                        <input type="email" class="form-control" id="email" required>
+                    </div>
+                </div>
+                <div class="form-group row">
+                    <div class="col">
+                        <input type="text" class="form-control" id="phone">
+                    </div>
+                </div>
+            </div>
+            <div class="col-4">
+                <div class="form-group row">
+                    <div class="col">
+                        <input type="text" class="form-control" id="additionalinfo">
+                    </div>
+                </div>
+                <button type="submit" class="btn btn-primary">Send</button>
+            </div>
   
-  <button type="submit" class="btn btn-primary">Sign in</button>
+    </div>
+  </div> 
 </form>
 
     <footer>
