@@ -55,5 +55,21 @@ As a returning customer, where I already know what I want, want to be able to ea
 
 # Credits
 
+## Photos
 Photo by Milad B. Fakurian on Unsplash https://unsplash.com/photos/Sx__zWdWqPs
+Photos by Retha Ferguson on Pexels: 
+https://www.pexels.com/photo/woman-in-black-t-shirt-and-black-shorts-sitting-on-grass-3621884/
+https://www.pexels.com/photo/woman-in-black-crew-neck-t-shirt-standing-beside-soccer-goal-net-3618531/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels
+Photo by Pixabay on Pexels:
+https://www.pexels.com/photo/man-in-red-nike-jersey-shirt-playing-soccer-159555/
+https://www.pexels.com/photo/man-in-black-pants-playing-soccer-during-daytime-159516/
+Photo by thiszun on Pexels https://www.pexels.com/photo/woman-wearing-football-shirt-3653376/
+Photo by Luis Quintero from Pexels https://www.pexels.com/photo/photo-of-smiling-man-in-yellow-and-black-adidas-jersey-shirt-with-his-thumb-up-2106220/
+Photo by Jeffrey F Lin on Unsplash:
+https://unsplash.com/photos/TkS6V8YTdy8
+https://unsplash.com/photos/YAO8wn1t_MY
+Photo by Jim Strasma on Unsplash https://unsplash.com/photos/igGnYLxCOas
 
+
+## Code
+Inspiration for Carousel slider coming from code by Grzegorz Agacinski on Codepen https://codepen.io/gagacinski/pen/MMWdwb
