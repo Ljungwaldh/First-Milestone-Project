@@ -9,7 +9,12 @@ body {
   background-size: cover;
 }
 
-.col-4 {
+.container-fluid {
     text-align: center;
     color: #fafafa;
+}
+
+.card {
+    text-align: center;
+    color: black;
 }
