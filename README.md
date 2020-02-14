@@ -64,13 +64,16 @@ Photo by Pixabay on Pexels:
 https://www.pexels.com/photo/man-in-red-nike-jersey-shirt-playing-soccer-159555/
 https://www.pexels.com/photo/man-in-black-pants-playing-soccer-during-daytime-159516/
 https://www.pexels.com/photo/abstract-blackboard-bulb-chalk-355948/
+https://www.pexels.com/photo/people-men-grass-sport-2209/
 Photo by thiszun on Pexels https://www.pexels.com/photo/woman-wearing-football-shirt-3653376/
 Photo by Luis Quintero from Pexels https://www.pexels.com/photo/photo-of-smiling-man-in-yellow-and-black-adidas-jersey-shirt-with-his-thumb-up-2106220/
 Photo by Jeffrey F Lin on Unsplash:
 https://unsplash.com/photos/TkS6V8YTdy8
 https://unsplash.com/photos/YAO8wn1t_MY
+https://unsplash.com/photos/Oqs5aTNE-tA
 Photo by Jim Strasma on Unsplash https://unsplash.com/photos/igGnYLxCOas
 Photo by Arseny Togulev on Unsplash https://unsplash.com/photos/ADpnzgPdAWE
+Photo by Marvin Ronsdorf on Unsplash https://unsplash.com/photos/EqbE_NkXPfc
 
 ## Code
 Inspiration for Carousel slider coming from code by Grzegorz Agacinski on Codepen https://codepen.io/gagacinski/pen/MMWdwb
