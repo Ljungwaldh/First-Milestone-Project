@@ -41,10 +41,31 @@ body {
     padding-left: 20px;
     padding-right: 20px;
     padding-bottom: 20px;
+    padding-top: 40px;
+}
+
+.introduction-section {
+    margin-top: 40px;
 }
 
 .introduction-section p {
     margin-left: 30px;
     margin-right: 30px;
     margin-bottom: 40px;
+}
+
+.about-me {
+    background-color: rgba(44, 44, 44, 0.8)
+}
+
+.smart-philosophy {
+    background-color: rgba(78, 78, 78, 0.8)
+}
+
+.smart-philosophy .img-fluid {
+    filter: grayscale(100%);
+}
+
+.how-i-can-help {
+    background-color: rgba(44, 44, 44, 0.8)
 }
