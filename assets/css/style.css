@@ -26,3 +26,11 @@ body {
     font-family: "Oswald", sans-serif;
 }
 
+.hero-heading-section {
+    padding: 250px 0px 250px 0px;
+}
+
+.hero-heading-section .col-md-4 .col-12 {
+    background-color: black;
+}
+
