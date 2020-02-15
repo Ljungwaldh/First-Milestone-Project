@@ -77,3 +77,4 @@ Photo by Marvin Ronsdorf on Unsplash https://unsplash.com/photos/EqbE_NkXPfc
 
 ## Code
 Inspiration for Carousel slider coming from code by Grzegorz Agacinski on Codepen https://codepen.io/gagacinski/pen/MMWdwb
+Inspiration for Bootstrap Navbar styling coming from code by Katie Frances on Medium https://medium.com/coder-grrl/the-guide-to-customising-the-bootstrap-4-navbar-i-wish-id-had-6-months-ago-7bc6ce0e3c71
