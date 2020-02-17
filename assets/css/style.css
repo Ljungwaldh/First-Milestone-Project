@@ -20,7 +20,8 @@ body {
 
 .card {
     color: black;
-    height: auto;
+    margin-top: 40px;
+    margin-bottom: 40px;
 }
 
 .navbar-brand {
@@ -42,12 +43,18 @@ body {
     object-fit: cover;
     padding-left: 20px;
     padding-right: 20px;
-    padding-bottom: 40px;
-    padding-top: 40px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    border-radius: 50%;
 }
 
 .introduction-section {
     margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.introduction-section h2 {
+    padding-top: 20px;
 }
 
 .introduction-section p {
