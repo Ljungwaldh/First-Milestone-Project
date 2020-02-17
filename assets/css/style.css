@@ -13,6 +13,13 @@ body {
   font-family: "Roboto", sans-serif;
 }
 
+h2 {
+    background-color: rgba(0, 0, 0, .8);
+    border-radius: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
 .container-fluid {
     text-align: center;
     color: #fafafa;
@@ -61,7 +68,7 @@ body {
     margin-bottom: 40px;
 }
 
-.introduction-section h2 {
+.introduction-section h3 {
     padding-top: 20px;
 }
 
@@ -86,6 +93,10 @@ body {
 .how-i-can-help {
     background-color: rgba(44, 44, 44, 0.8)
 }
+
+/* -----------Testimonial section--------- */
+
+
 
 /* -----------Needs fixing--------- */
 .testimonial-section .card-body img {
