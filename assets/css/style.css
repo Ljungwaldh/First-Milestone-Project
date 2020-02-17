@@ -49,10 +49,40 @@ body {
     font-family: "Oswald", sans-serif;
 }
 
+/* -----------Footer--------- */
+
+footer .container-fluid {
+    padding-top: 10px;
+}
+
+.social-links {
+    padding-bottom: 15px;
+}
+
+.social-links li a i {
+    width: 32px;
+    height: 32px;
+    padding: 12px 0;
+    border-radius: 50%;
+    font-size: 13px;
+    line-height: 7px;
+    text-align: center;
+    color: #fafafa;
+    background: #8f8f8f;
+    transition: all 0.35s ease-in-out;
+    -moz-transition: all 0.35s ease-in-out;
+    -webkit-transition: all 0.35s ease-in-out;
+    -o-transition: all 0.35s ease-in-out;
+}
+
+.social-links li a i:hover {
+    background-color:  rgba(5.88, 29.8, 50.59, 0.85);
+}
+
 /* -----------Hero section--------- */
 
 .hero-heading-section {
-    padding: 255px 0px 255px 0px;
+    padding: 230px 0px 255px 0px;
 }
 
 .hero-heading-content {
@@ -99,37 +129,48 @@ body {
 
 
 
-/* -----------Needs fixing--------- */
-.testimonial-section .card-body img {
-    border: 5px #ffdb58;
+/* -----------Training Offers section section--------- */
+
+.training-header-section {
+    padding: 220px 0px 255px 0px;  
 }
 
-/* -----------Footer--------- */
-
-footer .container-fluid {
-    padding-top: 10px;
+.training-types-section {
+    margin-top: 40px;
+    margin-bottom: 255px;
 }
 
-.social-links {
-    padding-bottom: 15px;
+.training-types-section h3 {
+    padding-top: 20px;
 }
 
-.social-links li a i {
-    width: 32px;
-    height: 32px;
-    padding: 12px 0;
-    border-radius: 50%;
-    font-size: 13px;
-    line-height: 7px;
-    text-align: center;
+.promotion {
+    position: relative;
     color: #fafafa;
-    background: #8f8f8f;
+    background-color: #F96F6D;
+    top: 100px;
+    text-align: center;
+    padding: 10px 10px 10px 10px;
+    border-radius: 20px;
     transition: all 0.35s ease-in-out;
     -moz-transition: all 0.35s ease-in-out;
     -webkit-transition: all 0.35s ease-in-out;
     -o-transition: all 0.35s ease-in-out;
 }
 
-.social-links li a i:hover {
-    background-color:  rgba(5.88, 29.8, 50.59, 0.85);
+.promotion a {
+    color: #fafafa;
+    font-family: "Roboto", sans-serif;
+}
+
+.individual-training {
+    background-color: rgba(128, 94, 92, 0.9)
+}
+
+.group-training {
+    background-color: rgba(204, 94, 86, 0.9)
+}
+
+.team-training {
+    background-color: rgba(128, 94, 92, 0.9)
 }
