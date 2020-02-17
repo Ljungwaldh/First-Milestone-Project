@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Oswald|Roboto&display=swap');
 
-h1, h2, h3 {
+h1, h2, h3, h5 {
     color: #fafafa;
     font-family: "Oswald", sans-serif;
 }
@@ -19,34 +19,42 @@ body {
 }
 
 .card {
-    color: black;
+    color: #fafafa;
     margin-top: 40px;
     margin-bottom: 40px;
+    background-color:  rgba(5.88, 29.8, 50.59, 0.85);
+    border-radius: 30px;
 }
-
-.navbar-brand {
-    font-family: "Oswald", sans-serif;
-}
-
-.hero-heading-section {
-    padding: 250px 0px 250px 0px;
-}
-
-.hero-heading-content {
-    background-color: rgba(0, 0, 0, .8);
-    border-radius: 10px;
-    }
 
 .img-fluid {
     width: 100%;
     height: auto;
     object-fit: cover;
-    padding-left: 20px;
-    padding-right: 20px;
     padding-bottom: 20px;
     padding-top: 20px;
     border-radius: 50%;
 }
+
+/* -----------Navbar--------- */
+
+.navbar-brand {
+    font-family: "Oswald", sans-serif;
+}
+
+/* -----------Hero section--------- */
+
+.hero-heading-section {
+    padding: 255px 0px 255px 0px;
+}
+
+.hero-heading-content {
+    background-color: rgba(0, 0, 0, .8);
+    border-radius: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    }
+
+/* -----------Introduction section--------- */
 
 .introduction-section {
     margin-top: 40px;
@@ -77,4 +85,39 @@ body {
 
 .how-i-can-help {
     background-color: rgba(44, 44, 44, 0.8)
+}
+
+/* -----------Needs fixing--------- */
+.testimonial-section .card-body img {
+    border: 5px #ffdb58;
+}
+
+/* -----------Footer--------- */
+
+footer .container-fluid {
+    padding-top: 10px;
+}
+
+.social-links {
+    padding-bottom: 15px;
+}
+
+.social-links li a i {
+    width: 32px;
+    height: 32px;
+    padding: 12px 0;
+    border-radius: 50%;
+    font-size: 13px;
+    line-height: 7px;
+    text-align: center;
+    color: #fafafa;
+    background: #8f8f8f;
+    transition: all 0.35s ease-in-out;
+    -moz-transition: all 0.35s ease-in-out;
+    -webkit-transition: all 0.35s ease-in-out;
+    -o-transition: all 0.35s ease-in-out;
+}
+
+.social-links li a i:hover {
+    background-color:  rgba(5.88, 29.8, 50.59, 0.85);
 }

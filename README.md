@@ -79,3 +79,8 @@ Photo by Marvin Ronsdorf on Unsplash https://unsplash.com/photos/EqbE_NkXPfc
 Inspiration for Carousel slider coming from code by Grzegorz Agacinski on Codepen https://codepen.io/gagacinski/pen/MMWdwb
 Inspiration for Bootstrap Navbar styling coming from code by Katie Frances on Medium https://medium.com/coder-grrl/the-guide-to-customising-the-bootstrap-4-navbar-i-wish-id-had-6-months-ago-7bc6ce0e3c71
 Inspiration on object-fit usage to crop imkages coming from code by Alligator.io https://alligator.io/css/cropping-images-object-fit/
+Used this code to amke my smart.jpg image black and white https://www.w3schools.com/cssref/css3_pr_filter.asp
+Used code from user-centric front-end module in Code Insitute prograsm to give initial structure for social media icons, code produced by Code-Insitute-Solutions on GitHub:
+https://github.com/Code-Institute-Solutions/resume-miniproject-bootstrap4/blob/master/18-resume-for-download/resume.html
+https://github.com/Code-Institute-Solutions/resume-miniproject-bootstrap4/blob/master/18-resume-for-download/assets/css/style.css
+
