@@ -140,6 +140,10 @@ footer .container-fluid {
     margin-bottom: 255px;
 }
 
+.training-header {
+    background-color: rgba(255, 111, 97, 0.8)
+}
+
 .training-types-section h3 {
     padding-top: 20px;
 }
@@ -164,15 +168,15 @@ footer .container-fluid {
 }
 
 .individual-training {
-    background-color: rgba(128, 94, 92, 0.9)
+    background-color: rgba(64, 28, 24, 0.8)
 }
 
 .group-training {
-    background-color: rgba(204, 94, 86, 0.9)
+    background-color: rgba(128, 55, 47, 0.8)
 }
 
 .team-training {
-    background-color: rgba(128, 94, 92, 0.9)
+    background-color: rgba(64, 28, 24, 0.8)
 }
 
 /* -----------Blog-start section--------- */
@@ -188,5 +192,9 @@ footer .container-fluid {
 
 .blog-categories-section h3 {
     padding-top: 20px;
+}
+
+.blog-header {
+    background-color: rgba(15, 76, 129, .9)
 }
 
