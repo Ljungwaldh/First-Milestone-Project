@@ -135,7 +135,6 @@ footer .container-fluid {
 /* -----------Testimonial section--------- */
 
 
-
 /* -----------Training Offers section--------- */
 
 .training-header-section {
@@ -273,7 +272,6 @@ footer .container-fluid {
 }
 
 .contact-form-content {
-    
     border-radius: 10px;
     padding-top: 20px;
     padding-bottom: 40px;
@@ -282,6 +280,9 @@ footer .container-fluid {
 .contact-details {
     background-color: rgba(51, 51, 51, .9);
     padding-bottom: 20px;
+}
+
+.contact-details input {
 }
 
 .additional-info {
