@@ -85,4 +85,4 @@ https://github.com/Code-Institute-Solutions/resume-miniproject-bootstrap4/blob/m
 https://github.com/Code-Institute-Solutions/resume-miniproject-bootstrap4/blob/master/18-resume-for-download/assets/css/style.css
 Inspiration for using positioning property in my CSS provided by W3Schools: https://www.w3schools.com/cssref/pr_class_position.asp
 CSS font-weight property to make my promotion text in training.html stand out more found in W3Schools https://www.w3schools.com/css/tryit.asp?filename=trycss_font-weight
-
+Obtained css property to add shadow overlay on background image throughout website. Credits to BevansDesign on Stack Overflow https://stackoverflow.com/questions/9182978/semi-transparent-color-layer-over-background-image
