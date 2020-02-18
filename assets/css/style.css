@@ -103,7 +103,7 @@ footer .container-fluid {
 
 .introduction-section {
     margin-top: 40px;
-    margin-bottom: 40px;
+    margin-bottom: 100px;
 }
 
 .introduction-section h3 {
@@ -274,25 +274,40 @@ footer .container-fluid {
 .contact-form-content {
     border-radius: 10px;
     padding-top: 20px;
-    padding-bottom: 40px;
+    padding-bottom: 70px;
 }
 
 .contact-details {
     background-color: rgba(51, 51, 51, .9);
-    padding-bottom: 20px;
-}
-
-.contact-details input {
+    padding-bottom: 40px;
+    padding-right: 20px;
+    padding-left: 20px;
 }
 
 .additional-info {
     background-color: rgba(30, 30, 30, .9);
-    padding-bottom: 20px;
+    padding-right: 20px;
+    padding-left: 20px;
 }
 
 .training-type-info {
     background-color: rgba(30, 30, 30, .9);
     padding-bottom: 20px;
+}
+
+.training-type-info h3 {
+    padding-bottom: 40px;
+}
+
+.check-box-item {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 1.2rem;
+}
+
+.send-button {
+    margin-bottom: 30px;
+    margin-top: 10px;
 }
 
 /* -----------Blog Category pages--------- */
