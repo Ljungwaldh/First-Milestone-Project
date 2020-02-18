@@ -154,6 +154,12 @@ footer .container-fluid {
     padding-top: 20px;
 }
 
+.training-types-section p {
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-bottom: 40px;
+}
+
 .promotion {
     position: relative;
     color: #fafafa;
@@ -200,11 +206,21 @@ footer .container-fluid {
     padding-top: 20px;
 }
 
+.blog-categories-section p {
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-bottom: 40px;
+}
+
 .blog-header {
     background-color: rgba(15, 76, 129, .9)
 }
 
-/* -----------Contact section--------- */
+.blog-category-cards {
+    background-color: rgba(78, 78, 78, 0.9)
+}
+
+/* -----------Contact Heading & Contact Help section--------- */
 
 .contact-heading-section {
     padding: 220px 0px 320px 0px;
@@ -221,6 +237,13 @@ footer .container-fluid {
 
 .contact-help-section h3 {
     padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.contact-help-section p {
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-bottom: 40px;
 }
 
 .help-questions {
@@ -233,6 +256,40 @@ footer .container-fluid {
 
 .help-book {
     background-color: rgba(68, 51, 2, 0.9)
+}
+
+/* -----------Contact Form section--------- */
+
+.contact-form-section {
+    margin-top: 40px;
+    margin-bottom: 100px;
+}
+
+.contact-form-section h3 {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.contact-form-content {
+    
+    border-radius: 10px;
+    padding-top: 20px;
+    padding-bottom: 40px;
+}
+
+.contact-details {
+    background-color: rgba(51, 51, 51, .9);
+    padding-bottom: 20px;
+}
+
+.additional-info {
+    background-color: rgba(30, 30, 30, .9);
+    padding-bottom: 20px;
+}
+
+.training-type-info {
+    background-color: rgba(30, 30, 30, .9);
+    padding-bottom: 20px;
 }
 
 /* -----------Blog Category pages--------- */
@@ -255,7 +312,7 @@ footer .container-fluid {
 }
 
 .blog-post {
-   background-color: rgba(44, 44, 44, 0.9)
+   background-color: rgba(44, 44, 44, 0.95)
 }
 
 .see-also {
