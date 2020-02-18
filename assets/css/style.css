@@ -7,6 +7,10 @@ h1, h2, h3, h5 {
     font-family: "Oswald", sans-serif;
 }
 
+h1, h2, h3 {
+     text-transform: uppercase;
+}
+
 body {
   background-image: url("/assets/images/bg-image.jpg");
   background-repeat: no-repeat;
@@ -37,7 +41,7 @@ body {
 }
 
 .img-fluid {
-    width: 100%;
+    width: 60%;
     height: auto;
     object-fit: cover;
     padding-bottom: 20px;
@@ -220,13 +224,13 @@ footer .container-fluid {
 }
 
 .help-questions {
-    background-color: rgba(68, 51, 2, 0.8)
+    background-color: rgba(68, 51, 2, 0.9)
 }
 
 .help-information {
-    background-color: rgba(82, 62, 2, 0.8)
+    background-color: rgba(82, 62, 2, 0.9)
 }
 
 .help-book {
-    background-color: rgba(68, 51, 2, 0.8)
+    background-color: rgba(68, 51, 2, 0.9)
 }
