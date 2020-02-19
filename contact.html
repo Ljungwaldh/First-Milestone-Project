@@ -60,103 +60,79 @@
 		</div>
 	</section>
 
-	<!-- Contact Help section -->
-	<section class="contact-help-section">
-		<div class="container-fluid">
-			<div class="row justify-content-center">
-				<div class="col-lg-4 col-sm-12 help-questions">
-					<h3>Have Any Questions?</h3>
-					<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex, dolores illo. Facere quidem optio
-						distinctio non, adipisci porro esse nam cupiditate ducimus minus excepturi illum doloribus
-						repudiandae necessitatibus asperiores similique rerum ad veniam reiciendis, eum totam beatae
-						architecto nobis accusamus. Alias velit pariatur rerum atque repellat. Ab culpa id ratione.</p>
-				</div>
-				<div class="col-lg-4 col-sm-12 help-information">
-					<h3>Want More Information?</h3>
-					<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex, dolores illo. Facere quidem optio
-						distinctio non, adipisci porro esse nam cupiditate ducimus minus excepturi illum doloribus
-						repudiandae necessitatibus asperiores similique rerum ad veniam reiciendis, eum totam beatae
-						architecto nobis accusamus. Alias velit pariatur rerum atque repellat. Ab culpa id ratione.</p>
-				</div>
-				<div class="col-lg-4 col-sm-12 help-book">
-					<h3>Want to book?</h3>
-					<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex, dolores illo. Facere quidem optio
-						distinctio non, adipisci porro esse nam cupiditate ducimus minus excepturi illum doloribus
-						repudiandae necessitatibus asperiores similique rerum ad veniam reiciendis, eum totam beatae
-						architecto nobis accusamus. Alias velit pariatur rerum atque repellat. Ab culpa id ratione.</p>
-				</div>
-			</div>
-		</div>
-	</section>
-
 	<!-- Contact Form -->
 	<section class="contact-form-section">
 		<form class="inline">
 			<div class="container-fluid contact-form-content">
-				<div class="row justify-content-center">
-					<div class="col-lg-4 col-sm-12 training-type-info">
-						<h3>Training Type</h3>
-						<div class="form-group row justify-content-start">
-							<div class="col check-box-item">
+				<div class="form-group row justify-content-center">
+					<div class="col-lg-4 col-sm-12 inquiry-type-info">
+						<h3>1. Inquiry Type</h3>
+						<div class="form-group row justify-content-center">
+							<div class="form-group col-9 col-md-8 col-lg-10 radio">
 								<div class="form-check">
-									<input class="form-check-input" type="checkbox" value="" id="individualtraining">
-									<label class="form-check-label" for="individualtraining">
-                                Individual
+									<input class="form-check-input" type="radio" name="radioOptions" value="I have a question" id="question">
+									<label class="form-check-label" for="question">
+                                I have one/several Question(s)
+                            </label>
+								</div>
+								<div class="form-check">
+									<input class="form-check-input" type="radio" name="radioOptions" value="I want more information" id="information">
+									<label class="form-check-label" for="information">
+                                I would like an Information Package
+                            </label>
+								</div>
+								<div class="form-check">
+									<input class="form-check-input" type="radio" name="radioOptions" value="I want to book training" id="book-training">
+									<label class="form-check-label" for="book-training">
+                                I want to Book Training
                             </label>
 								</div>
 							</div>
-						</div>
-						<div class="form-group row">
-							<div class="col check-box-item">
-								<div class="form-check">
-									<input class="form-check-input" type="checkbox" value="" id="grouptraining">
-									<label class="form-check-label" for="grouptraining">
-                                Group
-                            </label>
-								</div>
-							</div>
-						</div>
-						<div class="form-group row">
-							<div class="col check-box-item">
-								<div class="form-check">
-									<input class="form-check-input" type="checkbox" value="" id="teamtraining">
-									<label class="form-check-label" for="teamtraining">
-                                Team
-                            </label>
-								</div>
+
+							<div class="form-group col-9 col-md-8 col-lg-10 training-type-options">
+								<label for="inputTrainingType">Please select which type of training you're interested in</label>
+								<select id="inputTrainingtype" class="form-control">
+                                        <option>...</option>
+                                        <option>Individual</option>
+                                        <option>Group</option>
+                                        <option>Team</option>
+                                    </select>
 							</div>
 						</div>
 					</div>
 					<div class="col-lg-4 col-sm-12 contact-details">
-						<h3>Contact Details</h3>
+						<h3>2. Contact Details</h3>
 						<div class="form-group row justify-content-center contact-details-row">
 							<div class="col-9 col-md-8 col-lg-10">
 								<label for="fullname">Full Name*: </label>
 								<input type="text" class="form-control" id="fullname" required>
-                    </div>
+                            </div>
 							</div>
 							<div class="form-group row justify-content-center contact-details-row">
 								<div class="col-9 col-md-8 col-lg-10">
 									<label for="email">Email*: </label>
 									<input type="email" class="form-control" id="email" required>
-                    </div>
+                                </div>
 								</div>
 								<div class="form-group row justify-content-center contact-details-row">
 									<div class="col-9 col-md-8 col-lg-10">
 										<label for="phone">Phone: </label>
 										<input type="text" class="form-control" id="phone">
-                                </div>
+                                    </div>
 									</div>
 								</div>
 								<div class="col-lg-4 col-sm-12 additional-info">
-									<h3>Additional Information</h3>
+									<h3>3. Additional Information</h3>
 									<div class="form-group row justify-content-center">
 										<div class="col-9 col-md-8 col-lg-10">
 											<small id="additionalinfoHelp" class="form-text text-muted">Please provide extra information about the person/group/team in question, such as age, gender, competition level, and any other details that you feel is relevant.
                                             <input type="text" class="form-control" id="additionalinfo" aria-describedby="additionalinfoHelp">
                                         </div>
                                     </div>
-                <button type="submit" class="btn btn-primary send-button" data-toggle="modal" data-target="modalcenter">Send</button>
+                                    <button type="submit" class="btn btn-primary send-button" data-toggle="modal" data-target="modalcenter">Send</button>
+                                </div>
+                            </div>
+              
                 
                 <!-- Modal, (needs fixing) -->
                 <div class="modal fade" id="modalcenter" tabindex="-1" role="dialog" aria-labelledby="modalcentertitle" aria-hidden="true">
