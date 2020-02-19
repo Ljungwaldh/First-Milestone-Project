@@ -41,13 +41,15 @@ body {
     border-radius: 30px;
 }
 
+
 .img-fluid {
     width: 60%;
     height: auto;
     object-fit: cover;
-    padding-bottom: 20px;
-    padding-top: 20px;
+    margin-bottom: 20px;
+    margin-top: 20px;
     border-radius: 50%;
+    border: 1px solid #000000;
 }
 
 /* -----------Navbar--------- */
@@ -112,15 +114,29 @@ footer .container-fluid {
 .introduction-section p {
     margin-left: 30px;
     margin-right: 30px;
-    margin-bottom: 40px;
+    margin-bottom: 20px;
 }
 
 .about-me {
     background-color: rgba(44, 44, 44, 0.9)
 }
 
+.about-me ul li {
+    text-align: left;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-bottom: 20px;
+}
+
 .smart-philosophy {
     background-color: rgba(78, 78, 78, 0.9)
+}
+
+.smart-philosophy ul li {
+    text-align: left;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-bottom: 20px;
 }
 
 .smart-philosophy .img-fluid {
