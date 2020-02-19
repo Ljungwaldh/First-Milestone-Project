@@ -121,77 +121,55 @@
 								</div>
 								<div class="col-lg-4 col-sm-12 additional-info">
 									<h3>3. Additional Information</h3>
+                                    <p>Please provide any other relevant information concerning your inquiry</p>
 									<div class="form-group row justify-content-center">
 										<div class="col-9 col-md-8 col-lg-10">
-											<small id="additionalinfoHelp" class="form-text text-muted">Please provide extra information about the person/group/team in question, such as age, gender, competition level, and any other details that you feel is relevant.
-                                            <input type="text" class="form-control" id="additionalinfo" aria-describedby="additionalinfoHelp">
-                                        </div>
-                                    </div>
-                                    <button type="submit" class="btn btn-primary send-button" data-toggle="modal" data-target="modalcenter">Send</button>
-                                </div>
+											<textarea class="form-control" rows="5" id="additionalinfo" aria-describedby="additionalinfoHelp"></textarea>
                             </div>
-              
-                
-                <!-- Modal, (needs fixing) -->
-                <div class="modal fade" id="modalcenter" tabindex="-1" role="dialog" aria-labelledby="modalcentertitle" aria-hidden="true">
-                <div class="modal-dialog modal-dialog-centered" role="document">
-                    <div class="modal-content">
-                    <div class="modal-header">
-                        <h5 class="modal-title" id="modalcentertitle">Thank you for getting in touch!</h5>
-                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                        <span aria-hidden="true">&times;</span>
-                        </button>
-                    </div>
-                    <div class="modal-body">
-                        <p>I'll get back to you as soon as I can</p>
-                    </div>
-                    <div class="modal-footer">
-                        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-                            </div>
-                    </div>
-                </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</form>
-</section>
+										</div>
+										<button type="submit" class="btn btn-primary send-button" data-toggle="modal" data-target="modalcenter">Send</button>
+									</div>
+								</div>
+							</div>
+		</form>
+	</section>
 
-<!-- Footer -->
+	<!-- Footer -->
 	<footer>
 		<div class="container-fluid bg-dark">
 			<div class="row justify-content-md-between">
 				<div class="col-6 col-sm-4 footer-logo">
 					<h5>SMART Soccer <span><i class="fas fa-brain"></i><i class="fas fa-futbol"></i></span></h5>
-					<p class="inline-block">A service provided by Gustaf Ljungwaldh, an experienced football coach utilizing SMART goal
+					<p class="inline-block">A service provided by Gustaf Ljungwaldh, an experienced football coach
+						utilizing SMART goal
 						setting methodology</p>
 				</div>
 				<div class="col-6 col-sm-4">
-                    <h5>Social Media</h5>
+					<h5>Social Media</h5>
 					<ul class="list-inline social-links">
 						<li class="list-inline-item">
 							<a target="_blank" href="https://www.facebook.com/">
-                                <i class="fab fa-facebook" aria-hidden="true"></i>
-                                <span class="sr-only">Facebook</span>
-                            </a>
+								<i class="fab fa-facebook" aria-hidden="true"></i>
+								<span class="sr-only">Facebook</span>
+							</a>
 						</li>
 						<li class="list-inline-item">
 							<a target="_blank" href="https://www.instagram.com/">
-                                <i class="fab fa-instagram"></i>
-                                <span class="sr-only">Instagram</span>
-                            </a>
+								<i class="fab fa-instagram"></i>
+								<span class="sr-only">Instagram</span>
+							</a>
 						</li>
 						<li class="list-inline-item">
 							<a target="_blank" href="https://www.youtube.com/">
-                                <i class="fab fa-youtube" aria-hidden="true"></i>
-                                <span class="sr-only">YouTube</span>
-                            </a>
+								<i class="fab fa-youtube" aria-hidden="true"></i>
+								<span class="sr-only">YouTube</span>
+							</a>
 						</li>
 						<li class="list-inline-item">
 							<a target="_blank" href="https://twitter.com/">
-                                <i class="fab fa-twitter" aria-hidden="true"></i>
-                                <span class="sr-only">Twitter</span>
-                            </a>
+								<i class="fab fa-twitter" aria-hidden="true"></i>
+								<span class="sr-only">Twitter</span>
+							</a>
 						</li>
 					</ul>
 				</div>
@@ -199,9 +177,16 @@
 		</div>
 	</footer>
 
-<!-- Javascript, enabling navbar -->
-<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
-<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
-<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+	<!-- Javascript, enabling navbar -->
+	<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"
+		integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous">
+	</script>
+	<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
+		integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous">
+	</script>
+	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"
+		integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous">
+	</script>
 </body>
+
 </html>
