@@ -378,3 +378,17 @@ footer .container-fluid {
 .blog-image {
     width: 50%;
 }
+
+/* -----------Media Queries--------- */
+
+@media screen and (min-width: 992px) {
+  .testimonial-small {
+    display: none;
+  }
+}
+
+@media screen and (max-width: 992px) {
+  .testimonial-large {
+    display: none;
+  }
+}
