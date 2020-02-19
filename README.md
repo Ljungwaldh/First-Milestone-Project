@@ -80,8 +80,9 @@ Inspiration for Carousel slider coming from code by Grzegorz Agacinski on Codepe
 Inspiration for Bootstrap Navbar styling coming from code by Katie Frances on Medium https://medium.com/coder-grrl/the-guide-to-customising-the-bootstrap-4-navbar-i-wish-id-had-6-months-ago-7bc6ce0e3c71
 Inspiration on object-fit usage to crop imkages coming from code by Alligator.io https://alligator.io/css/cropping-images-object-fit/
 Used this code to amke my smart.jpg image black and white, code from W3Schools https://www.w3schools.com/cssref/css3_pr_filter.asp
-Used code from user-centric front-end module in Code Insitute prograsm to give initial structure for social media icons. Used some code structure for styling anchor link (for my promotion offer). Code produced by Code-Insitute-Solutions on GitHub:
+Used code from user-centric front-end module in Code Insitute program to give initial structure for social media icons. Used some code structure for styling anchor link (for my promotion offer). Code produced by Code-Insitute-Solutions on GitHub:
 https://github.com/Code-Institute-Solutions/resume-miniproject-bootstrap4/blob/master/18-resume-for-download/resume.html
+Used code from user-centric front-end module in Code Insitute program to give indication of pixel sizes for width when defining my media query for my carousel. Code produced by Code-Insitute-Solutions on GitHub:
 https://github.com/Code-Institute-Solutions/resume-miniproject-bootstrap4/blob/master/18-resume-for-download/assets/css/style.css
 Inspiration for using positioning property in my CSS provided by W3Schools: https://www.w3schools.com/cssref/pr_class_position.asp
 CSS font-weight property to make my promotion text in training.html stand out more found in W3Schools https://www.w3schools.com/css/tryit.asp?filename=trycss_font-weight
