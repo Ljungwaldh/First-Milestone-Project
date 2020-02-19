@@ -169,6 +169,10 @@ footer .container-fluid {
     margin-bottom: 40px;
 }
 
+.carousel-item {
+    text-align: center;
+}
+
 /* -----------Training Offers section--------- */
 
 .training-header-section {
