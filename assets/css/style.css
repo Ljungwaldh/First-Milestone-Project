@@ -41,8 +41,8 @@ body {
     border-radius: 30px;
 }
 
-.card:hover {
-    padding: 2px 2px 2px 2px;
+.card-body:hover {
+    padding: 10px 10px 10px 10px;
     transition: all 0.35s ease-in-out;
     -moz-transition: all 0.35s ease-in-out;
     -webkit-transition: all 0.35s ease-in-out;
@@ -211,6 +211,14 @@ footer .container-fluid {
 
 .carousel-item {
     text-align: center;
+}
+
+.carousel-control-prev {
+    padding-right: 80px;
+}
+
+.carousel-control-next {
+    padding-left: 80px;
 }
 
 /* -----------Training Offers section--------- */
