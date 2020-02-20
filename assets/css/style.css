@@ -488,6 +488,32 @@ footer .container-fluid {
     width: 50%;
 }
 
+#bookAdvert1, #bookAdvert2 {
+    width: 80%;
+    border-radius: 10px;
+    height: auto;
+    margin-top: 20px;
+    border: 1px solid #000000;
+    margin-bottom: 40px;
+}
+
+#bookAdvert1:hover {
+    padding: 2px 2px 2px 2px;
+    transition: all 0.35s ease-in-out;
+    -moz-transition: all 0.35s ease-in-out;
+    -webkit-transition: all 0.35s ease-in-out;
+    -o-transition: all 0.35s ease-in-out;
+}
+
+#bookAdvert2:hover {
+    padding: 2px 2px 2px 2px;
+    transition: all 0.35s ease-in-out;
+    -moz-transition: all 0.35s ease-in-out;
+    -webkit-transition: all 0.35s ease-in-out;
+    -o-transition: all 0.35s ease-in-out;
+}
+
+
 /* -----------Media Queries--------- */
 
 @media screen and (min-width: 992px) {
