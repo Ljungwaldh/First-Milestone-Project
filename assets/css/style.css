@@ -222,12 +222,33 @@ footer .container-fluid {
     background-color: rgba(34, 60, 45, 0.9)
 }
 
+.individual-training ul li {
+    text-align: left;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-bottom: 20px;
+}
+
 .group-training {
     background-color: rgba(99, 122, 108, 0.9)
 }
 
+.group-training ul li {
+    text-align: left;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-bottom: 20px;
+}
+
 .team-training {
     background-color: rgba(34, 60, 45, 0.9)
+}
+
+.team-training ul li {
+    text-align: left;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-bottom: 20px;
 }
 
 /* -----------Blog-start section--------- */
