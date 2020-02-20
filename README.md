@@ -92,4 +92,4 @@ Obtained base code for how to code a media query, to be used in adding media que
 Obtained base code for setting iframes for Youtube videos, used thios so I could present Youtube videos on my blog posts. Code provided by W3Schools https://www.w3schools.com/html/html_youtube.asp
 Credit to T.Touda for code that provided base for sorting out central positioning of Youtube videos in blog post pages. Solution found on Stack Overflow: https://stackoverflow.com/questions/22433616/how-can-i-align-youtube-embedded-video-in-the-center-in-bootstrap
 Credit to code from W3Schools for syntax for buttons. Button used for promotion on my training.html page https://www.w3schools.com/tags/tag_button.asp
-Credit to code from W3Schools for syntax regarding styling the :hover selector. Utilized this for giving suttle feedback for users when mouse hovers over content sections. https://www.w3schools.com/cssref/sel_hover.asp
+Credit to code from W3Schools for syntax regarding styling the :hover selector. Utilized this for giving subtle feedback for users when mouse hovers over content sections. https://www.w3schools.com/cssref/sel_hover.asp
