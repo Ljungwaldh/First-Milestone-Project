@@ -75,7 +75,7 @@ Photo by Jim Strasma on Unsplash https://unsplash.com/photos/igGnYLxCOas
 Photo by Arseny Togulev on Unsplash https://unsplash.com/photos/ADpnzgPdAWE
 Photo by Marvin Ronsdorf on Unsplash https://unsplash.com/photos/EqbE_NkXPfc
 
-## Code
+## Code/Credits
 Inspiration for Carousel slider coming from code by Grzegorz Agacinski on Codepen https://codepen.io/gagacinski/pen/MMWdwb
 Inspiration for Bootstrap Navbar styling coming from code by Katie Frances on Medium https://medium.com/coder-grrl/the-guide-to-customising-the-bootstrap-4-navbar-i-wish-id-had-6-months-ago-7bc6ce0e3c71
 Inspiration on object-fit usage to crop imkages coming from code by Alligator.io https://alligator.io/css/cropping-images-object-fit/
@@ -90,3 +90,4 @@ Obtained css property to add shadow overlay on background image throughout websi
 Text-align css styling used for aligning unordered list items in my introduction section to align to the left, to give a better appearance than being centered by the bootstrap class of the column. Code provided by W3Schools https://www.w3schools.com/css/tryit.asp?filename=trycss_text-align
 Obtained base code for how to code a media query, to be used in adding media queries for my carousel on index.html, presenting a given carousel type depending on screen size. Code provided by W3Schools https://www.w3schools.com/css/css3_mediaqueries.asp
 Obtained base code for setting iframes for Youtube videos, used thios so I could present Youtube videos on my blog posts. Code provided by W3Schools https://www.w3schools.com/html/html_youtube.asp
+Credit to T.Touda for code that provided base for sorting out central positioning of Youtube videos in blog post pages. Solution found on Stack Overflow: https://stackoverflow.com/questions/22433616/how-can-i-align-youtube-embedded-video-in-the-center-in-bootstrap
