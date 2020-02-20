@@ -53,11 +53,16 @@ body {
 }
 
 .youtube {
+    display: block;
+    margin: 0 auto;
     width: 100%;
     height: auto;
-    margin-left: 150px;
-    max-width: 360px;
-    max-height: 300px;
+    max-width: 450px;
+    max-height: 400px;
+    margin-bottom: 60px;
+    margin-top: 50px;
+    padding-left: 20px;
+    padding-right: 20px;
 }
 
 /* -----------Navbar--------- */
@@ -283,6 +288,10 @@ footer .container-fluid {
     background-color: rgba(78, 78, 78, 0.7)
 }
 
+ .category-card a:hover {
+    text-decoration: none;
+}
+
 /* -----------Contact Heading section--------- */
 
 .contact-heading-section {
@@ -357,7 +366,6 @@ footer .container-fluid {
     border: none;
 }
 
-
 /* -----------Blog Category pages--------- */
 
 .blog-cat-heading-section {
@@ -401,6 +409,10 @@ footer .container-fluid {
 
 .see-also-card {
     background-color: rgba(80, 79, 79, 0.9);
+}
+
+.see-also-card a:hover{
+    text-decoration: none;
 }
 
 .card-text {
