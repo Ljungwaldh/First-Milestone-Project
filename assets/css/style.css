@@ -184,7 +184,7 @@ footer .container-fluid {
 /* -----------Training Offers section--------- */
 
 .training-header-section {
-    padding: 270px 0px 255px 0px;  
+    padding: 270px 0px 115px 0px;  
 }
 
 .training-types-section {
@@ -206,24 +206,24 @@ footer .container-fluid {
     margin-bottom: 40px;
 }
 
-.promotion {
-    position: relative;
-    color: #fafafa;
-    background-color: #294936;
-    top: 100px;
+.promotion a button {
+    margin-top: 130px;
     text-align: center;
-    padding: 10px 10px 10px 10px;
+    color: #fafafa;
+    font-family: "Roboto", sans-serif;
+    font-weight: bold;
+    background-color: #294936;
     border-radius: 20px;
+    padding: 5px 5px 5px 5px;
     transition: all 0.35s ease-in-out;
     -moz-transition: all 0.35s ease-in-out;
     -webkit-transition: all 0.35s ease-in-out;
     -o-transition: all 0.35s ease-in-out;
+    border: 1px solid #000000;
 }
 
-.promotion a {
-    color: #fafafa;
-    font-family: "Roboto", sans-serif;
-    font-weight: bold;
+.promotion a:hover button {
+    background-color: #1d3325;
 }
 
 .individual-training {
