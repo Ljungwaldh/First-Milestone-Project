@@ -53,8 +53,11 @@ body {
 }
 
 .youtube {
-    max-width: 550px;
-    max-height: 400px;
+    width: 100%;
+    height: auto;
+    margin-left: 150px;
+    max-width: 360px;
+    max-height: 300px;
 }
 
 /* -----------Navbar--------- */
@@ -341,10 +344,19 @@ footer .container-fluid {
     padding-bottom: 10px;
 }
 
-.send-button {
-    margin-bottom: 30px;
-    margin-top: 10px;
+.modal-header  {
+    background-color: rgba(145, 110, 4, 1);
 }
+
+.modal-body {
+    color: #000000;
+}
+
+.close-modal {
+    background-color:  rgba(145, 110, 4, 1);
+    border: none;
+}
+
 
 /* -----------Blog Category pages--------- */
 

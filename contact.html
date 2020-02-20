@@ -124,10 +124,35 @@
 									<p>Please provide any other relevant information concerning your inquiry</p>
 									<div class="form-group row justify-content-center">
 										<div class="col-9 col-md-8 col-lg-10">
-											<textarea class="form-control" rows="5" id="additionalinfo" aria-describedby="additionalinfoHelp"></textarea>
-									    </div>
+											<textarea class="form-control" rows="5" id="additionalinfo"></textarea>
+										</div>
 									</div>
-									<button type="submit" class="btn btn-primary send-button" data-toggle="modal" data-target="modalcenter">Send</button>
+
+									<!-- Button trigger modal -->
+									<button type="button" class="btn btn-secondary" data-toggle="modal" data-target="#submit">Submit</button>
+
+									<!-- Modal -->
+									<div class="modal fade" id="submit" tabindex="-1" role="dialog"
+										aria-labelledby="modalTitle" aria-hidden="true">
+										<div class="modal-dialog modal-dialog-centered" role="document">
+											<div class="modal-content">
+												<div class="modal-header">
+													<h5 class="modal-title" id="modalTitle">Thanks for getting in touch
+													</h5>
+													<button type="button" class="close-modal" data-dismiss="modal" aria-label="Close">
+                                                    <span aria-hidden="true">&times;</span>
+                                                    </button>
+												</div>
+												<div class="modal-body">
+													<p>I will get back to as soon as possible!</p>
+												</div>
+												<div class="modal-footer">
+													<button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+												</div>
+											</div>
+										</div>
+									</div>
+
 								</div>
 							</div>
 						</div>
