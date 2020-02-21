@@ -87,9 +87,21 @@ the left and the right of the carousel to move to the previous/next carousel ite
 the carousel row.
 
 The sections of the introduction and the cards in the carousel all have hover stylings applied, giving users subtle feedback on which piece of content they are hovering
-over and focusing on. This is done by the images enlaserging themselves slightly when the section/card is hovered over.
+over and focusing on. This is done by the images enlarging themselves slightly when the section/card is hovered over.
 
 ## Training
+
+Following the same format as the home page, with a main page heading, followed by content presented in three columns aligned horizontally across the whole width of the page.
+The colour scheme is instead a dark green tone to give a nice contrast to the black and white theme. Below the main Training page header lies a promotion button.
+When hovering over the promotion button, the background colour transitions into a darker shade of green, and when clicked, it will redirect the user to the contact page,
+where they can send a booking request. The three-part information section describes the different training offers available, pricing and conditiomns. 
+
+Below the information content is an embedded Google Map location with a clear heading to indicate where trainings take place. Lastly, the feasture below the 
+Training Location is a button for Training Times. Clicking on this button will produce a modal presenting training time availability, to help users get a better
+idea of between what times trainings will take place. The modal provides the option to close and also to 'Book Training', a button which also redirects users to the
+contact page where they can submit a service request.
+
+# Blog Page - Start
 
 
 
