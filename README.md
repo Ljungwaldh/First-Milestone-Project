@@ -93,3 +93,4 @@ Obtained base code for setting iframes for Youtube videos, used thios so I could
 Credit to T.Touda for code that provided base for sorting out central positioning of Youtube videos in blog post pages. Solution found on Stack Overflow: https://stackoverflow.com/questions/22433616/how-can-i-align-youtube-embedded-video-in-the-center-in-bootstrap
 Credit to code from W3Schools for syntax for buttons. Button used for promotion on my training.html page https://www.w3schools.com/tags/tag_button.asp
 Credit to code from W3Schools for syntax regarding styling the :hover selector. Utilized this for giving subtle feedback for users when mouse hovers over content sections. https://www.w3schools.com/cssref/sel_hover.asp
+Credt to Chris Coyier on CSSTricks.com for code that I used to style my background image further to be centered and responsive to different screen sizes: https://css-tricks.com/perfect-full-page-background-image/
