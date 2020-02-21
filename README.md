@@ -55,11 +55,13 @@ Goals of customer for my website include:
 
 # Features
 
-## Consistent Features
+### Consistent Features
 
 Ever-present features within the website include a **fixed navigation bar**, allowing easy access to other parts of the website without having to scoll to
-the top of the page. The navigation bar contains a **logo** on the left-hand side and the menu items on the right-hand side. In mobile view,
-the menu items compress under a **burger icon button**, which when clicked on produces a **dropdown list** with the menu items listed.
+the top of the page. The navigation bar contains a **logo** on the left-hand side and the **menu items** on the right-hand side. In mobile view,
+the menu items compress under a **burger icon button**, which when clicked on produces a **dropdown list** with the menu items listed. The menu items
+redirect users to the respective pages of 'Home', 'Training', 'Blog', and 'Contact'. Clicking on the logo in the navigation bar will also redirect users to the 'Home'
+page.
 
 The **monochrome background image** is ever-present throughout the website, setting the tone for the colour scheme throughout the website, alongside the navigation bar and the footer.
 
@@ -71,7 +73,7 @@ a third of the width of the page. These sections in thirds are also presented wi
 allowing the user to read the content presented. The design is aimed to give a positive user experience, where the subtle presence of the background image at all times
 gives the sense of power towards training.
 
-## Home
+### Home
 
 Users land on the home page, first seeing the **hero header and slogan**. This page takes a predominatly monochrome theme towards black and white, this colour scheme continuing
 on to the About Me, SMART Philosophy, and How I can Help You sections. These three pieces of information cover the introduction of the website and overview of what's on offer.
@@ -89,7 +91,7 @@ the carousel row.
 The sections of the introduction and the cards in the carousel all have **hover stylings applied**, giving users subtle feedback on which piece of content they are hovering
 over and focusing on. This is done by the images enlarging themselves slightly when the section/card is hovered over.
 
-## Training
+### Training
 
 Following the same format as the home page, with a main page heading, followed by content presented in three columns aligned horizontally across the whole width of the page.
 The colour scheme is instead a dark green tone to give a nice contrast to the black and white theme. Below the main Training page header lies a **promotion button**.
@@ -103,35 +105,44 @@ Training Location is a **button for Training Times**. Clicking on this button wi
 idea of between what times trainings will take place. The modal provides **buttons to close the modal and also to 'Book Training'**, which redirects users to the
 contact page where they can submit a service request.
 
-## Blog Page - Start
+### Blog Page - Start
 
 A set of three cards are presented horzontally across the page's width, each one describing a blog category. A main page heading precedes the blog
 categories with consistent placement  The same responsiveness rules apply to these cards for hovering and for smaller/mobile devices as the home page. 
 **Each card is hyperlinked to their respective blog cateogry pages**, where users can then read blog content, these categories being 'For Players', 'For Coaches', and
 'Inspiration from Others'.
 
-## Blog Page - For Players
+### Blog Page - For Players
 
 The blog category page for Players, much like the other blog pages, differs in layout compared to other pages on the website. The layout instead present **blog post content**
-for two thirds of the width of the page, while the third on the right of the page includes **cards that redirect users to their respective blog category pages**. Blog
-post content consists of a heading, sub-heading with date, blog post image, blog text, and interactive content lowest down. This blog post stucture is consistently
+for two thirds of the width of the page, while the third on the right of the page includes a See Also section with **cards that redirect users to their respective blog category pages**. 
+Blog post content consists of a heading, sub-heading with date, blog post image, blog text, and interactive content lowest down. This blog post stucture is consistently
 applied to the other two blog category pages as well. For this blog category page, the blog post features an **embedded Youtube video** related to the blog post content. On mobile/smaller
 devices, the content is instead orgnaized with the blog post just below the main page heading, followed by the blog category cards. The hover effect used on other pages
 is applied to the category cards too.
 
-## Blog Page - For Coaches
+### Blog Page - For Coaches
 
 This blog category page, in terms of design and responsiveness, follows the same principles as the other two blog category pages. The blog post content, like the one
 for Players, includes the interactive content of an **embedded Youtube video** related to the blog post text content.
 
-## Blog Page - Inspiration from Others
+### Blog Page - Inspiration from Others
 
 This blog category page, in terms of design and responsiveness, follows the same principles as the other two blog category pages. The blog post content includes **two images as interactive content which are hyperlinked**. 
 Clicking on an image will redirect users to a page where they can buy the book that is advertised, with the imagesbeing the front covers of the books.
 
+### Contact
+
+The contact page follows the same design and responsiveness principles as the Training and Home pages. In this page the user can find a form with a range of input types.
+These input types include **radio buttons** to select the category of their inquiry, a **dropdwon menu** to select training type interest, **text inputs** for contact details and 
+additonal information, as well as a **submit button**. If the user tries to click on the submit button without selecting a radio buttomn, entering text input for 'Full Name' and/or an valid 'Email' input,
+the inputs will have pop up messages prompting the user to provide these required details correctly.
+
 # Credits
 
-## Photos
+##Media
+
+### Photos
 Photo by Milad B. Fakurian on Unsplash https://unsplash.com/photos/Sx__zWdWqPs
 Photos by Retha Ferguson on Pexels: 
 https://www.pexels.com/photo/woman-in-black-t-shirt-and-black-shorts-sitting-on-grass-3621884/
@@ -150,6 +161,10 @@ https://unsplash.com/photos/nKcx6jbFE-A
 Photo by Jim Strasma on Unsplash https://unsplash.com/photos/igGnYLxCOas
 Photo by Arseny Togulev on Unsplash https://unsplash.com/photos/ADpnzgPdAWE
 Photo by Marvin Ronsdorf on Unsplash https://unsplash.com/photos/EqbE_NkXPfc
+
+### Videos
+
+
 
 ## Code
 Inspiration for Carousel slider coming from code by Grzegorz Agacinski on Codepen https://codepen.io/gagacinski/pen/MMWdwb
@@ -170,3 +185,4 @@ Credit to T.Touda for code that provided base for sorting out central positionin
 Credit to code from W3Schools for syntax for buttons. Button used for promotion on my training.html page https://www.w3schools.com/tags/tag_button.asp
 Credit to code from W3Schools for syntax regarding styling the :hover selector. Utilized this for giving subtle feedback for users when mouse hovers over content sections. https://www.w3schools.com/cssref/sel_hover.asp
 Credt to Chris Coyier on CSSTricks.com for code that I used to style my background image further to be centered and responsive to different screen sizes: https://css-tricks.com/perfect-full-page-background-image/
+Credit to Seybsen on Stack Overflow for what code to apply to make a selection of one of three of my radio buttons required: https://stackoverflow.com/questions/8287779/how-to-use-the-required-attribute-with-a-radio-input-field
