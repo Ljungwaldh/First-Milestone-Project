@@ -9,7 +9,7 @@ The website will help to inform customers about:
 * A blog where I share free content
 * How they can request for my services
 
-The services available will range from coaching individuals, groups, and football teams. The service will be hourly rates for individuals and groups, aiming to run tailor-made training sessions. Coaching services for football teams will be custom-made offerings based on the needs of the team, where filling out the service request form will provide a starting point of discussing scope and pricing for the team's custom-made service.
+The services available will range from coaching individuals, groups, and soccer teams. The service will be hourly rates for individuals and groups, aiming to run tailor-made training sessions. Coaching services for soccer teams will be custom-made offerings based on the needs of the team, where filling out the service request form will provide a starting point of discussing scope and pricing for the team's custom-made service.
 
 Business goals of website include:
 * Build awareness of my coaching services
@@ -37,7 +37,7 @@ Goals of customer for my website include:
 * Sparse amount of football coaches offering this kind of service in the Stockholm area
 * No coaches in the Stockholm area providing information and language of service in English, therefore making it difficult for the international community
 * Websites with similar services offered in the Stockholm area are either poorly designed or provide too much information, therefore not providing a great user experience
-* My website will emphasize great user design and experience, aiming for simplicity so more focus can be placed on action/taking the next step for customers. The website will be easy to navigate, provide clear and concise information, and all this leading to customers easily coming towards the service request form.
+* My website will emphasize great user design and experience, aiming for simplicity so more focus can be placed on action/taking the next step for customers. The website will be easy to navigate, provide clear and concise information, and all this will lead customers towards the service request form easily.
 
 #### User Stories
 1. As a new visitor to the website, I want to be able to navigate easily so I can find what I need efficiently
@@ -94,7 +94,9 @@ over and focusing on. This is done by the images enlarging themselves slightly w
 Following the same format as the home page, with a main page heading, followed by content presented in three columns aligned horizontally across the whole width of the page.
 The colour scheme is instead a dark green tone to give a nice contrast to the black and white theme. Below the main Training page header lies a promotion button.
 When hovering over the promotion button, the background colour transitions into a darker shade of green, and when clicked, it will redirect the user to the contact page,
-where they can send a booking request. The three-part information section describes the different training offers available, pricing and conditiomns. 
+where they can send a booking request. The three-part information section describes the different training offers available, pricing and conditiomns. These sections
+give subtle user feedback, much like the home page, when hovering over each respective column. Content is arranged in a similar way to the home page on smaller and mobile devices,
+where the columns are stacked on top of each other vertically. Full clour photos are attached with text content to support context of the information.
 
 Below the information content is an embedded Google Map location with a clear heading to indicate where trainings take place. Lastly, the feasture below the 
 Training Location is a button for Training Times. Clicking on this button will produce a modal presenting training time availability, to help users get a better
@@ -103,7 +105,8 @@ contact page where they can submit a service request.
 
 # Blog Page - Start
 
-
+A set of three cards are presented horzontally across the page's width, each one describing a blog category. The same responsiveness rules apply to these cards for hovering
+and for smaller/mobile devices as the home pasge. Each 
 
 
 # Credits
