@@ -256,16 +256,18 @@ footer .container-fluid {
     font-weight: bold;
     background-color: #294936;
     border-radius: 20px;
-    padding: 5px 5px 5px 5px;
+    padding: 20px 20px 20px 20px;
     transition: all 0.35s ease-in-out;
     -moz-transition: all 0.35s ease-in-out;
     -webkit-transition: all 0.35s ease-in-out;
     -o-transition: all 0.35s ease-in-out;
     border: 1px solid #000000;
+    font-size: 20px;
 }
 
 .promotion a:hover button {
     background-color: #1d3325;
+    cursor: pointer;
 }
 
 .individual-training {
