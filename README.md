@@ -73,6 +73,11 @@ a third of the width of the page. These sections in thirds are also presented wi
 allowing the user to read the content presented. The design is aimed to give a positive user experience, where the subtle presence of the background image at all times
 gives the sense of power towards training.
 
+#### Deviations from Wireframe
+
+* Inclusion of a logo in the navigation bar (in the top left), chose to include this to give the website and brand more identity and exposure
+* Content of Footer including a logo and short information about the creator of the website on the left, and social media icons with links on the right-hand side. Originally planned to have name of website and contact details here, but chose this approach since I wanted users to contact me via the contact form instead of through my own contact details
+
 ### Home
 
 Users land on the home page, first seeing the **hero header and slogan**. This page takes a predominatly monochrome theme towards black and white, this colour scheme continuing
@@ -91,6 +96,10 @@ the carousel row.
 The sections of the introduction and the cards in the carousel all have **hover stylings applied**, giving users subtle feedback on which piece of content they are hovering
 over and focusing on. This is done by the images enlarging themselves slightly when the section/card is hovered over.
 
+#### Deviations from Wireframe
+
+* None, the home page followed same idea as the wireframe, a layout I was confident of in giving a good user experience
+
 ### Training
 
 Following the same format as the home page, with a main page heading, followed by content presented in three columns aligned horizontally across the whole width of the page.
@@ -105,12 +114,22 @@ Training Location is a **button for Training Times**. Clicking on this button wi
 idea of between what times trainings will take place. The modal provides **buttons to close the modal and also to 'Book Training'**, which redirects users to the
 contact page where they can submit a service request.
 
+#### Deviations from Wireframe
+
+* Opted for one colour across this page as opposed to a different colour for each third of the training offers information section. This was to ensure a congruent design with the other pages, where they too would have one colour each
+* Included embedded Google Map for the training location. This was to give extra information to users in case this kind of question would arise from contactees, helping to give a more indepemndent user experience
+* Added button and modal for presenting training time availability, with the option to redirect users to the Contact page. This is for the same reasons as the Google Map location addition, while also adding another customer journey towards making a service request at another decision point of the website.
+
 ### Blog Page - Start
 
 A set of three cards are presented horzontally across the page's width, each one describing a blog category. A main page heading precedes the blog
 categories with consistent placement  The same responsiveness rules apply to these cards for hovering and for smaller/mobile devices as the home page. 
 **Each card is hyperlinked to their respective blog cateogry pages**, where users can then read blog content, these categories being 'For Players', 'For Coaches', and
 'Inspiration from Others'.
+
+#### Deviations from Wireframe
+
+* Previewing only the blog categories as opposed to the blog category with one or two blog post previews. This is ultimately due to time constraints, where making more html pages for more blog posts was not realistic in respect to the time frame of the project
 
 ### Blog Page - For Players
 
@@ -121,22 +140,44 @@ applied to the other two blog category pages as well. For this blog category pag
 devices, the content is instead orgnaized with the blog post just below the main page heading, followed by the blog category cards. The hover effect used on other pages
 is applied to the category cards too.
 
+#### Deviations from Wireframe
+
+* Blog post takes up two thirds of the width of the page as opposed to the wghole width, allowing for 'See Also' content to take up the final third of the width of the page. This felt like a better design, espeically if mopre blog posts are posted with time, this would only push the category cards further down the page and be harder to find for users
+* Blog post including interactive content, in this case a Youtube video. This was added to make the content more dynamic, appealing to more senses to the users can more easily digest the blog post depending on the media consumption preferences.
+
 ### Blog Page - For Coaches
 
 This blog category page, in terms of design and responsiveness, follows the same principles as the other two blog category pages. The blog post content, like the one
 for Players, includes the interactive content of an **embedded Youtube video** related to the blog post text content.
+
+#### Deviations from Wireframe
+
+* Blog post takes up two thirds of the width of the page as opposed to the wghole width, allowing for 'See Also' content to take up the final third of the width of the page. This felt like a better design, espeically if mopre blog posts are posted with time, this would only push the category cards further down the page and be harder to find for users
+* Blog post including interactive content, in this case a Youtube video. This was added to make the content more dynamic, appealing to more senses to the users can more easily digest the blog post depending on the media consumption preferences.
 
 ### Blog Page - Inspiration from Others
 
 This blog category page, in terms of design and responsiveness, follows the same principles as the other two blog category pages. The blog post content includes **two images as interactive content which are hyperlinked**. 
 Clicking on an image will redirect users to a page where they can buy the book that is advertised, with the imagesbeing the front covers of the books.
 
+#### Deviations from Wireframe
+
+* Blog post takes up two thirds of the width of the page as opposed to the wghole width, allowing for 'See Also' content to take up the final third of the width of the page. This felt like a better design, espeically if mopre blog posts are posted with time, this would only push the category cards further down the page and be harder to find for users
+* Blog post including interactive content, and in this case, responsive images that redirect users to a website where they can buy the books recommended. This is to ensure convenience in the user expereince for those who are curious to purchase literature relevant for soccer coaching
+
 ### Contact
 
 The contact page follows the same design and responsiveness principles as the Training and Home pages. In this page the user can find a form with a range of input types.
 These input types include **radio buttons** to select the category of their inquiry, a **dropdwon menu** to select training type interest, **text inputs** for contact details and 
 additonal information, as well as a **submit button**. If the user tries to click on the submit button without selecting a radio buttomn, entering text input for 'Full Name' and/or an valid 'Email' input,
-the inputs will have pop up messages prompting the user to provide these required details correctly.
+the inputs will have pop up messages prompting the user to provide these required details correctly. If all required information is given and the user clicks the Submit
+button the information will be submitted and the Contact page will be reloaded.
+
+#### Deviations from Wireframe
+
+* Did not include the information columns section and instead only included the contact form in the Contact page. This was a decision to simplify the page, reduce information overload, and allow users to quickly find and fill in the form.
+* Replaced the checkboxes with dropdwon selection list for the training type interest - this was done since it felt that, considering user stories and profiles, it would be more logical that they would be decided on one type of training for sending one service request
+* Included radio buttons to select inquiry type. This was included as an alternative to the information section that would've been above the contact form, therefore being part of the simplification process of the contact page - aiming to give a simpler and better user experience
 
 # Credits
 
