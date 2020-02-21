@@ -73,6 +73,24 @@ gives the sense of power towards training.
 
 ## Home
 
+Users land on the home page, first seeing the hero header and slogan. This page takes a predominatly monochrome theme towards black and white, this colour scheme continuing
+on to the About Me, SMART Philosophy, and How I can Help You sections. These three pieces of information cover the introduction of the website and overview of what's on offer.
+This helps users to identify quickly what to expect from the website - that Gustaf Ljungwaldh provides soccer coaching services. Each section of the introduction also 
+includes black and white photos to give further context to the section header and text. On smaller, mobile devices, these introduction sections stack on top of each
+other vertically as apposed to aligning horizontally in larger screens.
+
+Below the initial introduction section features a carousel for the testimonial section. The section has a clear heading, and presents three testimonials at a time (with 6
+in total). To give the page some colour and contrast, the testimonial cards are given a dark blue bnackground colour as well as full colour photos to give visual profile
+of the testimonials. On smaller, mobile devices, the carousel changes to one where one testimonial is presented at a time instead of three. This is to ensure that users don't
+become overwhelmed by three carousel items scrolling across when stacked vertically on top of each other. The carousel scrolls automatically, however, users can click on
+the left and the right of the carousel to move to the previous/next carousel item/set. Users can also navigate on the carousel by clcicking on one of the bars Below
+the carousel row.
+
+The sections of the introduction and the cards in the carousel all have hover stylings applied, giving users subtle feedback on which piece of content they are hovering
+over and focusing on. This is done by the images enlaserging themselves slightly when the section/card is hovered over.
+
+## Training
+
 
 
 
