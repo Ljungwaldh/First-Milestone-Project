@@ -342,10 +342,71 @@ footer .container-fluid {
     height: auto;
     max-width: 450px;
     max-height: 400px;
-    margin-bottom: 120px;
+    margin-bottom: 80px;
     margin-top: 100px;
     padding-left: 20px;
     padding-right: 20px;
+}
+
+.training-times-modal {
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 40px;
+}
+
+.training-times-button {
+    margin-bottom: 70px;
+    text-align: center;
+    color: #fafafa;
+    font-family: "Roboto", sans-serif;
+    font-weight: bold;
+    background-color: #294936;
+    border-radius: 20px;
+    padding: 20px 20px 20px 20px;
+    transition: all 0.35s ease-in-out;
+    -moz-transition: all 0.35s ease-in-out;
+    -webkit-transition: all 0.35s ease-in-out;
+    -o-transition: all 0.35s ease-in-out;
+    border: 1px solid #000000;
+    font-size: 20px;
+}
+
+.training-times-button:hover {
+    background-color: #1d3325;
+    cursor: pointer;
+    border: 2px solid #244e33;
+}
+
+.training-times-button:active {
+    border: 2px solid #244e33;
+}
+
+.training-times-button:visited {
+    border: 2px solid #244e33;
+}
+
+.modal-body .container-fluid {
+    color: #000000;
+}
+
+.modal-header {
+     background-color: #1d3325;
+}
+
+.close {
+    color: #fafafa;
+}
+
+.modal-footer a button {
+    background-color: #294936;
+}
+
+.modal-footer a:hover button {
+    background-color: #1d3325;
+    transition: all 0.35s ease-in-out;
+    -moz-transition: all 0.35s ease-in-out;
+    -webkit-transition: all 0.35s ease-in-out;
+    -o-transition: all 0.35s ease-in-out;
 }
 
 /* -----------Blog-start section--------- */
