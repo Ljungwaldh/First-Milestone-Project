@@ -1,6 +1,6 @@
 # SMART Soccer Coaching Servcies
 
-This is a website to promote my (Gustaf Ljungwaldh) coaching services, based in Stockholm, Sweden. My coaching services would aim towards players, parents and football teams, as well as provide content that can help aspiring players/coaches. I am currently a coach at one of Stockholm's elite football clubs Djurgårdens IF, and wish I wish to also offer my expertise on a consultant/personal trainer basis.
+This is a website to promote my (Gustaf Ljungwaldh) coaching services, based in Stockholm, Sweden. My coaching services would aim towards players, parents and soccer teams, as well as provide content that can help aspiring players/coaches. I am currently a coach at one of Stockholm's elite clubs Djurgårdens IF, and wish I wish to also offer my expertise on a consultant/personal trainer basis.
 
 The website will help to inform customers about:
 * Myself (Gustaf Ljungwaldh) and my coaching profile
@@ -25,7 +25,8 @@ Goals of customer for my website include:
 
 ### Ideal customer
 #### The customers visiting my website would be:
-* English and/or Swedish speaking
+* English speaking
+* Living in Stockholm, Sweden
 * Have disposbale income
 * A parent of a player, a player in a team, or a coach of a team
 
@@ -34,7 +35,7 @@ Goals of customer for my website include:
 * Professional support for a player's/group's/team's development
 
 #### This project and website can provide a great solution for them for the following reasons:
-* Sparse amount of football coaches offering this kind of service in the Stockholm area
+* Sparse amount of soccer coaches offering this kind of service in the Stockholm area
 * No coaches in the Stockholm area providing information and language of service in English, therefore making it difficult for the international community
 * Websites with similar services offered in the Stockholm area are either poorly designed or provide too much information, therefore not providing a great user experience
 * My website will emphasize great user design and experience, aiming for simplicity so more focus can be placed on action/taking the next step for customers. The website will be easy to navigate, provide clear and concise information, and all this will lead customers towards the service request form easily.
@@ -51,6 +52,7 @@ Goals of customer for my website include:
 9. As a returning customer, where I already know what I want, want to be able to easily navigate to the service request form
 
 #### Wireframe Mockups
+
 
 
 # Features
@@ -178,6 +180,63 @@ button the information will be submitted and the Contact page will be reloaded.
 * Did not include the information columns section and instead only included the contact form in the Contact page. This was a decision to simplify the page, reduce information overload, and allow users to quickly find and fill in the form.
 * Replaced the checkboxes with dropdwon selection list for the training type interest - this was done since it felt that, considering user stories and profiles, it would be more logical that they would be decided on one type of training for sending one service request
 * Included radio buttons to select inquiry type. This was included as an alternative to the information section that would've been above the contact form, therefore being part of the simplification process of the contact page - aiming to give a simpler and better user experience
+
+##Existing Features
+
+### Present on All Pages
+
+* Header Logo that redirects users to the home page to giove easy navigation to that starting point of the website and to promote the brand (link to github code and specify lines)
+* Header Navigation Bar, with menu items 'Home', 'Training', 'Blog', and 'Contact' that redirect users to those respective pages so that they can navigate easily throughout the website (link to github code and specify lines)
+* Footer with Social Media Icons (linked to Social Media websites) on the right, logo a brief informatiomn about the website creator on the left. These serve to promote the brand and give users other sources of information elsewhere (link to github code and under what comment)
+* Background image setting dominant colour theme, defining what colours to be used throughout different parts of the website. This is meant to elicit positive emotional responses from the user with good colour contrasting (link to github code and specify lines, for the image and the css)
+* Responsiveness on all pages, domne with a mobile-first approach, so that users can easily interact with the website on any device
+
+### Present on Some Pages
+
+Hover effect on content to give users subtle feedback on the content they are hovering over/focusing on  and to give a sense of interactiveness, found in following places:
+* (add links and refer to link of code)
+
+### Home
+* Hero header and slogan - to give users an engaging introduction to the website
+* Introduction section with 'About Me', 'SMART Philosophy', and 'How I Can Help' sections - to give extended introduction to users of the website and what's being offered
+* Carousel for Testimomnial section, easily navigated with side cursor buttons and bars - to give users further information on the credibility of the coaching services being offered
+
+### Training
+* Promotion button by the page header that redirects users who would be pursuaded to send a service request based on the promotion
+* Training offer information for 'Individuals', 'Groups', and 'Teams', where users can learn more avbout pricing and conditions
+* Embedded Google Map location to give users more information about where trainings take place
+* Training Times button that redirects users to a modal, where they can see the time availability/business hours as well as have the option to redirect themselves to the Contact page to make a service request
+
+### Blog Page - Start
+
+* Clickable cards to redirect users towards blog content in the chosen category, categories including 'For Players', 'For Coaches', and 'Inspiration from Others'
+
+### Blog Page - For Players & For Coaches
+
+* Blog post with image, text and embedded Youtube content, so the user can have a dynamic experience when consuming content from these blog posts
+* Clickable cards that redirect users to one of two of the other blog categories
+
+### Blog Page - Inspiration from Others
+
+* Blog post with image, text and hyperlinked images so users can easily find where they can buy the recommended books mentioned in the blog post
+* Clickable cards that redirect users to one of two of the other blog categories
+
+### Contact
+
+* Contact form where users can state their inquiry type, types of training their interested in, their contact details, and any additonal information they want to communicate. This is all to ensure that users feel they can give all the relelvant information they can depeding on if they have question, want more information, or want to book training
+
+## Features Left to Implement
+
+* Video background - this could give a more modern and dynmaic look to the website as a whole, be it just included on the home page, in some pages, or in all pages - find suitable video brackground to replace background image
+* Have more blog posts - this would contribute further to users seeking credibility of the coach and the coaching services being offered - requires more HTML pages
+* Transition from a blog to a vlog (video blog) and/or audio blog - more video/audio content can contribute to greater userr experience for mobile user contexts (where it would be easer to listen than to read eg. while driving) - would require further embedding of video/audio content, and possibly production of own video/audio content
+* With more blog content it would require the building of an archive, where blog posts have tags and placed in blog category directories - requires significant HTML input
+* Modal to appear after submitting a form so that users can get feedback on a successfully completed form - requires Javascript, which is out of scope for this project
+* hover effects on content that are even more subtle than the currently implemented pseudo-class styling in order to give an even smoother user experience and reduce risk of negative distraction - requires further pseudo-class selector styling in CSS
+
+
+
+
 
 # Credits
 
