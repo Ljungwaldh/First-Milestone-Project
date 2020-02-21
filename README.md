@@ -232,7 +232,10 @@ Hover effect on content to give users subtle feedback on the content they are ho
 * Transition from a blog to a vlog (video blog) and/or audio blog - more video/audio content can contribute to greater userr experience for mobile user contexts (where it would be easer to listen than to read eg. while driving) - would require further embedding of video/audio content, and possibly production of own video/audio content
 * With more blog content it would require the building of an archive, where blog posts have tags and placed in blog category directories - requires significant HTML input
 * Modal to appear after submitting a form so that users can get feedback on a successfully completed form - requires Javascript, which is out of scope for this project
-* hover effects on content that are even more subtle than the currently implemented pseudo-class styling in order to give an even smoother user experience and reduce risk of negative distraction - requires further pseudo-class selector styling in CSS
+* Hover effects on content that are even more subtle than the currently implemented pseudo-class styling in order to give an even smoother user experience and reduce risk of negative distraction - requires further pseudo-class selector styling in CSS
+* Option to switch language of website to Swedish so that potential customers I can serve, who will be based in Stockholm, Sweden, have an easier time understanding my content and my offerings - would require a significant amount of time to duplicate HTML files and translate all of the content to Swedish, which isn't feasible in the time frame of this project
+
+
 
 
 
