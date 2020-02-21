@@ -61,6 +61,20 @@ Ever-present features within the website include a fixed navigation bar, allowin
 the top of the page. The navigation bar contains a logo on the left-hand side and the menu items on the right-hand side. In mobile view,
 the menu items compress under a nurger icon button, which when clicked on produces a dropdown list with the menu items listed.
 
+The monochrome background image is ever-present throughout the website, setting the tone for the colour scheme throughout the website, alongside the navigation bar and the footer.
+
+The footer, like the navigation bar, appears on every page, containing the logo and short text about the creator of the website, while the social media icon links appear
+on the right side of the footer. This can help guiode the user to more content related to the website on other social media platforms. 
+
+A design principle that comnsistent throughout the website (except for the blog pages with a blog post inside) is that information is presented in groups of three, each taking
+a third of the width of the page. These sections in thirds are also presented with a level of opacity - this giving exposure to the main background image while still
+allowing the user to read the content presented. The design is aimed to give a positive user experience, where the subtle presence of the background image at all times
+gives the sense of power towards training.
+
+## Home
+
+
+
 
 # Credits
 
