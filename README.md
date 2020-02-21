@@ -57,57 +57,77 @@ Goals of customer for my website include:
 
 ## Consistent Features
 
-Ever-present features within the website include a fixed navigation bar, allowing easy access to other parts of the website without having to scoll to
-the top of the page. The navigation bar contains a logo on the left-hand side and the menu items on the right-hand side. In mobile view,
-the menu items compress under a nurger icon button, which when clicked on produces a dropdown list with the menu items listed.
+Ever-present features within the website include a **fixed navigation bar**, allowing easy access to other parts of the website without having to scoll to
+the top of the page. The navigation bar contains a **logo** on the left-hand side and the menu items on the right-hand side. In mobile view,
+the menu items compress under a **burger icon button**, which when clicked on produces a **dropdown list** with the menu items listed.
 
-The monochrome background image is ever-present throughout the website, setting the tone for the colour scheme throughout the website, alongside the navigation bar and the footer.
+The **monochrome background image** is ever-present throughout the website, setting the tone for the colour scheme throughout the website, alongside the navigation bar and the footer.
 
-The footer, like the navigation bar, appears on every page, containing the logo and short text about the creator of the website, while the social media icon links appear
+The **footer**, like the navigation bar, appears on every page, containing the **logo and short text about the creator of the website**, while the **social media icon links** appear
 on the right side of the footer. This can help guiode the user to more content related to the website on other social media platforms. 
 
-A design principle that comnsistent throughout the website (except for the blog pages with a blog post inside) is that information is presented in groups of three, each taking
+A design principle that consistent throughout the website (except for the blog pages with a blog post inside) is that **information is presented in groups of three**, each taking
 a third of the width of the page. These sections in thirds are also presented with a level of opacity - this giving exposure to the main background image while still
 allowing the user to read the content presented. The design is aimed to give a positive user experience, where the subtle presence of the background image at all times
 gives the sense of power towards training.
 
 ## Home
 
-Users land on the home page, first seeing the hero header and slogan. This page takes a predominatly monochrome theme towards black and white, this colour scheme continuing
+Users land on the home page, first seeing the **hero header and slogan**. This page takes a predominatly monochrome theme towards black and white, this colour scheme continuing
 on to the About Me, SMART Philosophy, and How I can Help You sections. These three pieces of information cover the introduction of the website and overview of what's on offer.
 This helps users to identify quickly what to expect from the website - that Gustaf Ljungwaldh provides soccer coaching services. Each section of the introduction also 
-includes black and white photos to give further context to the section header and text. On smaller, mobile devices, these introduction sections stack on top of each
+includes **black and white photos** to give further context to the section header and text. On smaller, mobile devices, these introduction sections stack on top of each
 other vertically as apposed to aligning horizontally in larger screens.
 
-Below the initial introduction section features a carousel for the testimonial section. The section has a clear heading, and presents three testimonials at a time (with 6
-in total). To give the page some colour and contrast, the testimonial cards are given a dark blue bnackground colour as well as full colour photos to give visual profile
-of the testimonials. On smaller, mobile devices, the carousel changes to one where one testimonial is presented at a time instead of three. This is to ensure that users don't
+Below the initial introduction section features a **carousel** for the testimonial section. The section has a clear heading, and presents three testimonials at a time (with 6
+in total). To give the page some colour and contrast, the testimonial cards are given a dark blue bnackground colour as well as **full colour photos** to give visual profile
+of the testimonials. On smaller, mobile devices, the carousel changes to presenting one testimonial is presented at a time instead of three. This is to ensure that users don't
 become overwhelmed by three carousel items scrolling across when stacked vertically on top of each other. The carousel scrolls automatically, however, users can click on
 the left and the right of the carousel to move to the previous/next carousel item/set. Users can also navigate on the carousel by clcicking on one of the bars Below
 the carousel row.
 
-The sections of the introduction and the cards in the carousel all have hover stylings applied, giving users subtle feedback on which piece of content they are hovering
+The sections of the introduction and the cards in the carousel all have **hover stylings applied**, giving users subtle feedback on which piece of content they are hovering
 over and focusing on. This is done by the images enlarging themselves slightly when the section/card is hovered over.
 
 ## Training
 
 Following the same format as the home page, with a main page heading, followed by content presented in three columns aligned horizontally across the whole width of the page.
-The colour scheme is instead a dark green tone to give a nice contrast to the black and white theme. Below the main Training page header lies a promotion button.
+The colour scheme is instead a dark green tone to give a nice contrast to the black and white theme. Below the main Training page header lies a **promotion button**.
 When hovering over the promotion button, the background colour transitions into a darker shade of green, and when clicked, it will redirect the user to the contact page,
-where they can send a booking request. The three-part information section describes the different training offers available, pricing and conditiomns. These sections
+where they can send a booking request. The three-part information section describes the different training offers available, pricing and conditions. These sections
 give subtle user feedback, much like the home page, when hovering over each respective column. Content is arranged in a similar way to the home page on smaller and mobile devices,
-where the columns are stacked on top of each other vertically. Full clour photos are attached with text content to support context of the information.
+where the columns are stacked on top of each other vertically. **Full colour photos** are attached with text content to support context of the information.
 
-Below the information content is an embedded Google Map location with a clear heading to indicate where trainings take place. Lastly, the feasture below the 
-Training Location is a button for Training Times. Clicking on this button will produce a modal presenting training time availability, to help users get a better
-idea of between what times trainings will take place. The modal provides the option to close and also to 'Book Training', a button which also redirects users to the
+Below the information content is an **embedded Google Map location** with a clear heading to indicate where trainings take place. Lastly, the feature below the 
+Training Location is a **button for Training Times**. Clicking on this button will produce a modal presenting training time availability, to help users get a better
+idea of between what times trainings will take place. The modal provides **buttons to close the modal and also to 'Book Training'**, which redirects users to the
 contact page where they can submit a service request.
 
-# Blog Page - Start
+## Blog Page - Start
 
-A set of three cards are presented horzontally across the page's width, each one describing a blog category. The same responsiveness rules apply to these cards for hovering
-and for smaller/mobile devices as the home pasge. Each 
+A set of three cards are presented horzontally across the page's width, each one describing a blog category. A main page heading precedes the blog
+categories with consistent placement  The same responsiveness rules apply to these cards for hovering and for smaller/mobile devices as the home page. 
+**Each card is hyperlinked to their respective blog cateogry pages**, where users can then read blog content, these categories being 'For Players', 'For Coaches', and
+'Inspiration from Others'.
 
+## Blog Page - For Players
+
+The blog category page for Players, much like the other blog pages, differs in layout compared to other pages on the website. The layout instead present **blog post content**
+for two thirds of the width of the page, while the third on the right of the page includes **cards that redirect users to their respective blog category pages**. Blog
+post content consists of a heading, sub-heading with date, blog post image, blog text, and interactive content lowest down. This blog post stucture is consistently
+applied to the other two blog category pages as well. For this blog category page, the blog post features an **embedded Youtube video** related to the blog post content. On mobile/smaller
+devices, the content is instead orgnaized with the blog post just below the main page heading, followed by the blog category cards. The hover effect used on other pages
+is applied to the category cards too.
+
+## Blog Page - For Coaches
+
+This blog category page, in terms of design and responsiveness, follows the same principles as the other two blog category pages. The blog post content, like the one
+for Players, includes the interactive content of an **embedded Youtube video** related to the blog post text content.
+
+## Blog Page - Inspiration from Others
+
+This blog category page, in terms of design and responsiveness, follows the same principles as the other two blog category pages. The blog post content includes **two images as interactive content which are hyperlinked**. 
+Clicking on an image will redirect users to a page where they can buy the book that is advertised, with the imagesbeing the front covers of the books.
 
 # Credits
 
