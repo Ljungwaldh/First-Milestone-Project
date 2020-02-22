@@ -401,10 +401,37 @@ Code Institute ensured us that this isn't an issue to be concerned about in rega
 
 # Deployment
 
+I developed this project in GitPod, where I would commit to Git, and then push to GitHub via using the terminal in GitPod. I deployed this Github repository to GitHub pages via the following process:
+* Logged into GitHub
+* Under the tab 'Respositories', I selected First-Milestone-Project
+* Subsequently I selected 'Settings' from the menu at the top of the page
+* I scrolled down the page top the GitHub Pages section
+* On the dropdown bar under 'Source', I selected 'master branch'
+* Once I selected 'master branch' the page reloaded, and the website was deployed
+* I scrolled down the page again to find the link to the deployed website witihn a green highlighted area of the GitHub pages section, where this section also notified me that my website is deployed
 
+The master branch was the only branch used for this website.
+
+## How to run the project locally
+
+To clone the project from Github:
+
+1. Click the following link to come to the GitHub repository for this project
+2. Click on the green button 'Clone or Download'
+3. A dropdown window will appear titled 'Clone with HTTPS' - copy the link provided in the field below
+4. Open your local IDE
+5. Change the current working directory to the location where you want the cloned directory to be made
+6. Type in <code>git clone</code>, followed by pasting in the url copied from Step 3 alongside the git command.
+7. Press Enter, and the clone should subsequently be created
+
+Further troubleshooting on how to run the project locally can be found here (link).
 
 
 # Credits
+
+##Content
+
+* Inspiration for writing up the README.md comes from AJ Greeaves on GitHub: https://github.com/AJGreaves/portrait-artist/blob/master/README.md
 
 ##Media
 
@@ -429,6 +456,7 @@ Photo by Arseny Togulev on Unsplash https://unsplash.com/photos/ADpnzgPdAWE
 Photo by Marvin Ronsdorf on Unsplash https://unsplash.com/photos/EqbE_NkXPfc
 
 ### Videos
+
 
 
 
