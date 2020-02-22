@@ -1,6 +1,8 @@
 # SMART Soccer Coaching Servcies
 
-This is a website to promote my (Gustaf Ljungwaldh) coaching services, based in Stockholm, Sweden. My coaching services would aim towards players, parents and soccer teams, as well as provide content that can help aspiring players/coaches. I am currently a coach at one of Stockholm's elite clubs Djurgårdens IF, and wish I wish to also offer my expertise on a consultant/personal trainer basis.
+This is a website built for educational purposes, where the context presented is to promote my (Gustaf Ljungwaldh's) coaching services, based in Stockholm, Sweden. 
+My coaching services would aim towards players, parents and soccer teams, as well as provide content that can help aspiring players/coaches. 
+I am currently a coach at one of Stockholm's elite clubs Djurgårdens IF, and wish I wish to also offer my expertise on a consultant/personal trainer basis.
 
 The website will help to inform customers about:
 * Myself (Gustaf Ljungwaldh) and my coaching profile
@@ -9,7 +11,9 @@ The website will help to inform customers about:
 * A blog where I share free content
 * How they can request for my services
 
-The services available will range from coaching individuals, groups, and soccer teams. The service will be hourly rates for individuals and groups, aiming to run tailor-made training sessions. Coaching services for soccer teams will be custom-made offerings based on the needs of the team, where filling out the service request form will provide a starting point of discussing scope and pricing for the team's custom-made service.
+The services available will range from coaching individuals, groups, and soccer teams. The service will be hourly rates for individuals and groups, aiming to run tailor-made training sessions. 
+Coaching services for soccer teams will be custom-made offerings based on the needs of the team, where filling out the service request form will provide a starting point of discussing scope 
+and pricing for the team's custom-made service.
 
 Business goals of website include:
 * Build awareness of my coaching services
@@ -235,6 +239,7 @@ Hover effect on content to give users subtle feedback on the content they are ho
 * Hover effects on content that are even more subtle than the currently implemented pseudo-class styling in order to give an even smoother user experience and reduce risk of negative distraction - requires further pseudo-class selector styling in CSS
 * Option to switch language of website to Swedish so that potential customers I can serve, who will be based in Stockholm, Sweden, have an easier time understanding my content and my offerings - would require a significant amount of time to duplicate HTML files and translate all of the content to Swedish, which isn't feasible in the time frame of this project
 * Include link/button to download my soccer CV so users can have a PDF format of my credentials should they desire it - In the timeframe of the project, it wasn't feasible to create a soccer CV for myself from scratch
+* Prefilled contact form, where buttons on the Training page redirecting to the Contact page pre-select the radio button 'I want to Book Training' - this would require Javascript, which is out of scope for this project
 
 # Technologies Used
 
