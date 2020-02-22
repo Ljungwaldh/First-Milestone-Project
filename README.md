@@ -218,7 +218,7 @@ button the information will be submitted and the Contact page will be reloaded.
 [3]: (https://github.com/Ljungwaldh/First-Milestone-Project/blob/master/training.html)
 [4]: (https://github.com/Ljungwaldh/First-Milestone-Project/blob/master/blog-start.html)
 [5]: (https://github.com/Ljungwaldh/First-Milestone-Project/blob/master/blog-players.html)
-(6): (https://github.com/Ljungwaldh/First-Milestone-Project/blob/master/blog-inspiration.html)
+[6]: (https://github.com/Ljungwaldh/First-Milestone-Project/blob/master/blog-inspiration.html)
 [7]: (https://github.com/Ljungwaldh/First-Milestone-Project/blob/master/blog-coaches.html)
 [8]: (https://github.com/Ljungwaldh/First-Milestone-Project/blob/master/contact.html)
 
