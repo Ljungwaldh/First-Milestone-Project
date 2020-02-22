@@ -213,14 +213,14 @@ button the information will be submitted and the Contact page will be reloaded.
 * Background image setting dominant colour theme, defining what colours to be used throughout different parts of the website. This is meant to elicit positive emotional responses from the user with good colour contrasting. [CSS code][2] lines 16-20.
 * Responsiveness on all pages, done with a mobile-first approach, so that users can easily interact with the website on any device. Respomsioveness covers the masjority of code in the project.
 
-[1]: (https://github.com/Ljungwaldh/First-Milestone-Project/blob/master/index.html)
-[2]: (https://github.com/Ljungwaldh/First-Milestone-Project/blob/master/assets/css/style.css)
-[3]: (https://github.com/Ljungwaldh/First-Milestone-Project/blob/master/training.html)
-[4]: (https://github.com/Ljungwaldh/First-Milestone-Project/blob/master/blog-start.html)
-[5]: (https://github.com/Ljungwaldh/First-Milestone-Project/blob/master/blog-players.html)
-[6]: (https://github.com/Ljungwaldh/First-Milestone-Project/blob/master/blog-inspiration.html)
-[7]: (https://github.com/Ljungwaldh/First-Milestone-Project/blob/master/blog-coaches.html)
-[8]: (https://github.com/Ljungwaldh/First-Milestone-Project/blob/master/contact.html)
+[1]: <https://github.com/Ljungwaldh/First-Milestone-Project/blob/master/index.html>
+[2]: <https://github.com/Ljungwaldh/First-Milestone-Project/blob/master/assets/css/style.css>
+[3]: <https://github.com/Ljungwaldh/First-Milestone-Project/blob/master/training.html>
+[4]: <https://github.com/Ljungwaldh/First-Milestone-Project/blob/master/blog-start.html>
+[5]: <https://github.com/Ljungwaldh/First-Milestone-Project/blob/master/blog-players.html>
+[6]: <https://github.com/Ljungwaldh/First-Milestone-Project/blob/master/blog-inspiration.html>
+[7]: <https://github.com/Ljungwaldh/First-Milestone-Project/blob/master/blog-coaches.html>
+[8]: <https://github.com/Ljungwaldh/First-Milestone-Project/blob/master/contact.html>
 
 ### Present on Some Pages
 
