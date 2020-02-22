@@ -58,18 +58,23 @@ Goals of customer for my website include:
 #### Wireframe Mockups
 
 1. Home page
+
 ![Wireframes of Home page for Gustaf Ljungwaldh's First Milestone project](wireframes/home-page.png)
 
 2. Training page
-![Wireframes of Training page for Gustaf Ljungwaldh's First Milestone project](wireframes/training-offerings.png)
+
+![Wireframes of Training page for Gustaf Ljungwaldh's First Milestone project](wireframes/training-offerings-page.png)
 
 3. Blog starting page
+
 ![Wireframes of Blog starting page for Gustaf Ljungwaldh's First Milestone project](wireframes/blog-main-page.png)
 
 4. Blog post page
+
 ![Wireframes of Blog post page for Gustaf Ljungwaldh's First Milestone project](wireframes/blog-post-page.png)
 
 5. Contact page
+
 ![Wireframes of Contact page for Gustaf Ljungwaldh's First Milestone project](wireframes/contact-page.png)
 
 # Features
