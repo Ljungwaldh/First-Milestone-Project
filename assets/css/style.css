@@ -248,11 +248,11 @@ footer .container-fluid {
     margin-bottom: 40px;
 }
 
-.promotion a button {
+.promotion button {
     margin-top: 130px;
     text-align: center;
     color: #fafafa;
-    font-family: "Roboto", sans-serif;
+    font-family: "Oswald", sans-serif;
     font-weight: bold;
     background-color: #294936;
     border-radius: 20px;
@@ -265,7 +265,7 @@ footer .container-fluid {
     font-size: 20px;
 }
 
-.promotion a:hover button {
+.promotion button:hover {
     background-color: #1d3325;
     cursor: pointer;
 }
@@ -358,7 +358,7 @@ footer .container-fluid {
     margin-bottom: 70px;
     text-align: center;
     color: #fafafa;
-    font-family: "Roboto", sans-serif;
+    font-family: "Oswald", sans-serif;
     font-weight: bold;
     background-color: #294936;
     border-radius: 20px;
@@ -397,11 +397,11 @@ footer .container-fluid {
     color: #fafafa;
 }
 
-.modal-footer a button {
+.modal-book-button {
     background-color: #294936;
 }
 
-.modal-footer a:hover button {
+.modal-book-button:hover {
     background-color: #1d3325;
     transition: all 0.35s ease-in-out;
     -moz-transition: all 0.35s ease-in-out;
