@@ -181,7 +181,7 @@ button the information will be submitted and the Contact page will be reloaded.
 * Replaced the checkboxes with dropdwon selection list for the training type interest - this was done since it felt that, considering user stories and profiles, it would be more logical that they would be decided on one type of training for sending one service request
 * Included radio buttons to select inquiry type. This was included as an alternative to the information section that would've been above the contact form, therefore being part of the simplification process of the contact page - aiming to give a simpler and better user experience
 
-##Existing Features
+## Existing Features
 
 ### Present on All Pages
 
@@ -235,6 +235,14 @@ Hover effect on content to give users subtle feedback on the content they are ho
 * Hover effects on content that are even more subtle than the currently implemented pseudo-class styling in order to give an even smoother user experience and reduce risk of negative distraction - requires further pseudo-class selector styling in CSS
 * Option to switch language of website to Swedish so that potential customers I can serve, who will be based in Stockholm, Sweden, have an easier time understanding my content and my offerings - would require a significant amount of time to duplicate HTML files and translate all of the content to Swedish, which isn't feasible in the time frame of this project
 
+# Technologies Used
+
+* BoostrapCDN with Bootstrap 4 is utilized in order to give responsive structure for the website
+* jQuery and Popper.js, to enable componenets within Bootstrap, especialy in terms of enabling a responsive navigatiomn bar
+* Google Fonts - used to obtain the font families used throughout project of Oswald (for headers) and Roboto (for normal text)
+* Font Awesome - icons that are enabled by Bootstrap 4, these icons providing basis on social media link icons and the website brand logo
+* JavascriptCDN in order to enable hover selectors
+* Pexels.com was one of my sources to find license-free photos, but this webnsite also provided great technology in giving different options for resolution download as well as the option for custom resolution size specification
 
 
 
