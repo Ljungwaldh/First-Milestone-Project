@@ -311,10 +311,92 @@ building process for users should it be needed.
 
 ## Manual Testing of website (functionality and elemenets)
 
-### Home page
+All manual testing was done on the deployed version of my website
+
+### Consistent Features throughout website
 
 1. Navigation Bar
+    1. Entered the landing page being the Home page on desktop
+    2. Clicked on every single menu item to check they are directing to the right pages
+    3. Clicked on the logo to ensure I'm redirected to the Home page no matter where I'm located in the website
+    4. changed screen size to smaller/mobile size (where burger menu icon button appears), and clicked on this to verify the dropdown list of menu items appear and that they direct me to the correct pages
+    5. Checked responsiveness of navigation bar for all screen sizes
+    6. Hovered over the respective menu items to check that highlight as intended
+    6. Repeated test on mobile device
 
+2. Footer
+    1. Tested social media icons by hovering over them to see if hover effect of the transition and the colour change worked
+    2. Checked to see that by clicking on each icon it opens a new tab to the right social media website
+    3. Checked the responsiveness of the footer to see that on smaller devices to two pieces of content stack vertically as opposed to being left and right of the footer
+
+3. Information presented in threes
+    1. Checked each website page where information positioned in thirds were responsive to smaller screen sizes, where content stacks vertically one at a team rather than in row of three on larger screens
+
+### Home page
+
+1. Checked to esnure hover effect on introduction content and testimonial content was working and giving the user feedback on mouse hovering over content sections as intended
+2. Tested responsiveness of testimonial carousel, where on smaller screens it should scroll through testimonials 1 at a time rather tahn 3 at a time on largeer screens
+3. Tested clicking on the carousel cursors to go to the previous/next carousel item/set of carousel items, ass well as trying to navigate through the carousel with the bars lying underneath the carousel
+4. Repeated this test on a mobile device
+
+### Training page
+
+1. Tested promotion button first by hovering over it to ensure the shade of green shanged
+2. Subsequently tested the promotion button by clicking on it where it would direct me to the contact page
+3. Checked that the embedded Google Map on-page functions were wroking, such as dragging on the map to move location perspective, the zoom-in/zoom-out buttons, and the option to change to satellite imagery view
+4. Subsequently tested the links on the embedded Google Map location for reviews and for viewing the location on a larger map, both links opening new tabs to the correct web pages for Google Maps
+5. Tested the hovering effects on the Training times button to ensure that it would change to darker shade of green when mouse hovers over it
+6. Subsequently clicked on the Training Times button to test the modal pop up functionality
+7. Tested the modal's different functions, first the 'x' button to close the modal window, the 'Close' button to close the modal window and the 'Book Training' button which redirects me to the Contact page
+8. Tested hover effects of the buttons within the modal to ensure they change colour/shade when hovered over
+9. Checked responsivness of page for different screen sizes, ensuring content stacked vertically on each other in smaller/mobile device view
+10. Repeated test on mobile device
+
+### Blog Starting page
+
+1. Tested the blog cateogry cards by clicking on them to see that they redirect me to the right blog category page
+2. Checked responsivness of page for different screen sizes, ensuring content stacked vertically on each other in smaller/mobile device view
+3. Repeated test on a mobile device
+
+### Blog Player page
+
+1. Tested Youtube video functionality, including starting the video, adjusting audio, full-screen view and using the control buttons to ensure I was in control of the video
+2. Subsequently tested clicking the header of the video in the preview to ensure that I'm redirected on a new tab to the video on Youtube.com
+3. Checked the blog category cards by clicking on them to see if they redirect me to the correct blog cateogry page
+4. Checked responsivness of page for different screen sizes, ensuring content stacked vertically on each other in smaller/mobile device view
+5. Repeated test on a mobile device
+
+### Blog Coaches page
+
+1. Tested Youtube video functionality, including starting the video, adjusting audio, full-screen view and using the control buttons to ensure I was in control of the video
+2. Subsequently tested clicking the header of the video in the preview to ensure that I'm redirected on a new tab to the video on Youtube.com
+3. Checked the blog category cards by clicking on them to see if they redirect me to the correct blog cateogry page
+4. Checked responsivness of page for different screen sizes, ensuring content stacked vertically on each other in smaller/mobile device view
+5. Repeated test on a mobile device
+
+### Blog Inspiration page
+
+1. Tested the book cover images first by checking the hover effect on these to ensure they give subtle user feedback when hovered over
+2. Subsequently tested these hyperlinked images by clicking on them to see that they redirect me, on a new tab, top the right SoccerTutor.com page where one can buy the book
+3. Checked the blog category cards by clicking on them to see if they redirect me to the correct blog cateogry page
+4. Checked responsivness of page for different screen sizes, ensuring content stacked vertically on each other in smaller/mobile device view
+5. Repeated test on a mobile device
+
+### Contact page
+
+1. Tested functionality of contact form first by trying to submit the form without entering any information, where the prompt to select a inquiry type appears
+2. Subsequently chose inquiry type and clicked submit, where the prompt appeared to fill in the Full Name text field
+3. Subsequently filled out Full Name input field and clicked submit, where the prompt appeared to fill in the email address field
+4. Filled in text information into the email address field that wasn't an email address to test is prompt appears to ask for the user to type in a valid email format responses
+5. Filled in email address field, along with the other required fields, which reloaded the page after submitting the form.
+6. Checked responsivness of page for different screen sizes, ensuring content stacked vertically on each other in smaller/mobile device view
+7. Repeated test on a mobile device
+
+## Further Testing
+
+1. Asked my classmates at Code Institute to review my website. Only comment was that the website did not appear clean on the Internet Explorer browser. One of our tutors at
+Code Institute ensured us that this isn't an issue to be concerned about in regards to how our websites look in this particular browser.
+2. Tested on a number of browsers, including Firefox, Google Chrome, Microsoft Edge and Safari, where no deviations were found from one another.
 
 
 # Deployment
