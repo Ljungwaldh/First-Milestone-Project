@@ -229,7 +229,7 @@ Hover effect on content to give users subtle feedback on the content they are ho
 
 * Contact form where users can state their inquiry type, types of training their interested in, their contact details, and any additonal information they want to communicate. This is all to ensure that users feel they can give all the relelvant information they can depeding on if they have question, want more information, or want to book training
 
-## Features Left to Implement
+## Features Left to Implement and Ideas for Future Development
 
 * Video background - this could give a more modern and dynmaic look to the website as a whole, be it just included on the home page, in some pages, or in all pages - find suitable video brackground to replace background image
 * Have more blog posts - this would contribute further to users seeking credibility of the coach and the coaching services being offered - requires more HTML pages
@@ -240,6 +240,8 @@ Hover effect on content to give users subtle feedback on the content they are ho
 * Option to switch language of website to Swedish so that potential customers I can serve, who will be based in Stockholm, Sweden, have an easier time understanding my content and my offerings - would require a significant amount of time to duplicate HTML files and translate all of the content to Swedish, which isn't feasible in the time frame of this project
 * Include link/button to download my soccer CV so users can have a PDF format of my credentials should they desire it - In the timeframe of the project, it wasn't feasible to create a soccer CV for myself from scratch
 * Prefilled contact form, where buttons on the Training page redirecting to the Contact page pre-select the radio button 'I want to Book Training' - this would require Javascript, which is out of scope for this project
+* Button on the home page to redirect users to the Training page - this would help guide users to make a natural next step to finding out more about training offers, enabling a smoother customer journey - would require more time to code further HTML and CSS input
+* 'Book Training' button being also present on the home page, allowing users that already know what they want and/or returning customers can navigate intuitively and efficiently to the contact form to request coaching services - would require more time to code further HTML and CSS input
 
 # Technologies Used
 
@@ -287,7 +289,31 @@ building process for users should it be needed.
 
 ## User Stories Testing based on UX section
 
+1. As a new visitor to the website, I want to be able to navigate easily so I can find what I need efficiently
+    1. Navigation bar is present through the whole webiste, fixed to the top of the screen at all times, so users can easily navigate to the different parts of the website
+    2. The logo in the navigation bar redirects users back to the home page, no matter where they are, so they can easily navigate back to the start
+2. As a new visitor to the website, I want to get ideas for training and/or coaching football, so that I can be a better player and/or coach
+    1. The navigation bar is visable at all times, so the user can access the Blog menu item. From there, users can access the blog category they wish to read content from
+    2. The blog posts are dynamic and can give content produced by the website crestor himself and/or find further content by the ones providing the videos/books recommended
+3. As a new visitor/potential customer to the website, I want to know more about the coach himself, so that I can judghe for myself whether I think he is credible or not
+    1. The user on the Home page can scroll down to immediately read more about the coach, the website and the services being provided, to inform users straight away of the coach's credentials/experience
+    2. A testimonial section follows the introduction section, where users can find further content that illustrates a positive image of the coach
+    3. If a user wishes to know more about the coach and the knowledge he has of soccer, one can easily naviate to the Blog sec tion of the website and read the blog posts available in each respective blog category
+    4. The footer is consistent throughout the website, where social media icons linked to social media pages can provide even more information about the coach and content he is creating elsewhere
+4. As a potential customer, I want to have a clearly communicated pricing model of his services, so I can consider the cost factor in my decision making process
+    1. Easy navigation to the Training page of the website is possible through the navigation bar, where types of training and their pricing models, plus conditions and availability are well defined in a clear and concise manner
+5. As a potential customer, I want the process of requesting his services to be as clear, simple, and intuitive as possible, so that I know what to do once I've made my decision and I can execute on this quickly
+    1. The contact page is simple and intuitive, with a contact form where users can clearly state their intention to book coaching services
+6. As an observer/potential customer, I want a clear and easy way of contacting the coach, so I can I can get in touch with him in regards to anything that doesn't concern the service request form, for example, any questions I have.
+    1. Through the contact form in the COntact page, a user can clearly state their intention also to get in touch with the coach for other matter asides from making a booking, this being done by stating inquiry type as 'I have a Question(s)'
+7. As a returning customer, where I already know what I want, want to be able to easily navigate to the service request form
+    1. A returniong user can easily navigate to the Contact page where they can fill oin the form and state their intention clearly that their inquiry concerns booking coaching services
 
+## Manual Testing of website (functionality and elemenets)
+
+### Home page
+
+1. Navigation Bar
 
 
 
