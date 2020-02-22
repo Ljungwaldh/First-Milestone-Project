@@ -234,6 +234,7 @@ Hover effect on content to give users subtle feedback on the content they are ho
 * Modal to appear after submitting a form so that users can get feedback on a successfully completed form - requires Javascript, which is out of scope for this project
 * Hover effects on content that are even more subtle than the currently implemented pseudo-class styling in order to give an even smoother user experience and reduce risk of negative distraction - requires further pseudo-class selector styling in CSS
 * Option to switch language of website to Swedish so that potential customers I can serve, who will be based in Stockholm, Sweden, have an easier time understanding my content and my offerings - would require a significant amount of time to duplicate HTML files and translate all of the content to Swedish, which isn't feasible in the time frame of this project
+* Include link/button to download my soccer CV so users can have a PDF format of my credentials should they desire it - In the timeframe of the project, it wasn't feasible to create a soccer CV for myself from scratch
 
 # Technologies Used
 
@@ -244,7 +245,19 @@ Hover effect on content to give users subtle feedback on the content they are ho
 * JavascriptCDN in order to enable hover selectors
 * Pexels.com was one of my sources to find license-free photos, but this webnsite also provided great technology in giving different options for resolution download as well as the option for custom resolution size specification
 
+# Testing
 
+To initially test the website I used the following validators:
+
+- W3C Markup Validation Service for HTML
+    - index.html - found only two warnings regarding number of hyphens used in two comment lines (code lines 103 and 224), these hyphens being removed subsequently
+    - training-html - Encountered such as:
+        - having buttons elements as descendents of anchor elements - resolved by removing the anchor elements on buttons and reformatting the buttons in HTML and CSS
+
+- W3C CSS Validation Service 
+    - no errors was found when checking code via direct input of my CSS code
+
+# Depoloyment
 
 
 
@@ -297,3 +310,4 @@ Credit to code from W3Schools for syntax for buttons. Button used for promotion 
 Credit to code from W3Schools for syntax regarding styling the :hover selector. Utilized this for giving subtle feedback for users when mouse hovers over content sections. https://www.w3schools.com/cssref/sel_hover.asp
 Credt to Chris Coyier on CSSTricks.com for code that I used to style my background image further to be centered and responsive to different screen sizes: https://css-tricks.com/perfect-full-page-background-image/
 Credit to Seybsen on Stack Overflow for what code to apply to make a selection of one of three of my radio buttons required: https://stackoverflow.com/questions/8287779/how-to-use-the-required-attribute-with-a-radio-input-field
+Credit to Manas Chhabra for providing solution to adding link to buttons, so I could replace anchor elements on buttons with the onclick button class to redirect users to contact.html https://www.geeksforgeeks.org/how-to-create-an-html-button-that-acts-like-a-link/
