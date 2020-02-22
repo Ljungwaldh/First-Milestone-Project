@@ -207,19 +207,34 @@ button the information will be submitted and the Contact page will be reloaded.
 
 ### Present on All Pages
 
-* Header Logo that redirects users to the home page to giove easy navigation to that starting point of the website and to promote the brand (link to github code and specify lines)
-* Header Navigation Bar, with menu items 'Home', 'Training', 'Blog', and 'Contact' that redirect users to those respective pages so that they can navigate easily throughout the website (link to github code and specify lines)
-* Footer with Social Media Icons (linked to Social Media websites) on the right, logo a brief informatiomn about the website creator on the left. These serve to promote the brand and give users other sources of information elsewhere (link to github code and under what comment)
-* Background image setting dominant colour theme, defining what colours to be used throughout different parts of the website. This is meant to elicit positive emotional responses from the user with good colour contrasting (link to github code and specify lines, for the image and the css)
-* Responsiveness on all pages, domne with a mobile-first approach, so that users can easily interact with the website on any device
+* Header Logo that redirects users to the home page to giove easy navigation to that starting point of the website and to promote the brand.  HTML code lines 21-23 on [all pages][1].
+* Header Navigation Bar, with menu items 'Home', 'Training', 'Blog', and 'Contact' that redirect users to those respective pages so that they can navigate easily throughout the website.  HTML code lines on 19-46 on [all pages][1].
+* Footer with Social Media Icons (linked to Social Media websites) on the right, logo a brief informatiomn about the website creator on the left. These serve to promote the brand and give users other sources of information elsewhere. HTML code lines under Footer comment heading on [all pages][1] and [CSS code][2] lines 86-112 . 
+* Background image setting dominant colour theme, defining what colours to be used throughout different parts of the website. This is meant to elicit positive emotional responses from the user with good colour contrasting. [CSS code][2] lines 16-20.
+* Responsiveness on all pages, done with a mobile-first approach, so that users can easily interact with the website on any device. Respomsioveness covers the masjority of code in the project.
+
+[1]: (https://github.com/Ljungwaldh/First-Milestone-Project/blob/master/index.html)
+[2]: (https://github.com/Ljungwaldh/First-Milestone-Project/blob/master/assets/css/style.css)
+[3]: (https://github.com/Ljungwaldh/First-Milestone-Project/blob/master/training.html)
+[4]: (https://github.com/Ljungwaldh/First-Milestone-Project/blob/master/blog-start.html)
+[5]: (https://github.com/Ljungwaldh/First-Milestone-Project/blob/master/blog-players.html)
+(6): (https://github.com/Ljungwaldh/First-Milestone-Project/blob/master/blog-inspiration.html)
+[7]: (https://github.com/Ljungwaldh/First-Milestone-Project/blob/master/blog-coaches.html)
+[8]: (https://github.com/Ljungwaldh/First-Milestone-Project/blob/master/contact.html)
 
 ### Present on Some Pages
 
-Hover effect on content to give users subtle feedback on the content they are hovering over/focusing on  and to give a sense of interactiveness, found in following places:
-* (add links and refer to link of code)
+Hover effect on content to give users subtle feedback on the content they are hovering over/focusing on and to give a sense of interactiveness, found in following places:
+* [Home page][1], on Introduction Section and Carousel items
+* [Training page][3], on the promotion button, the Training Types section, the Training Times button, and the Book Training button in the Training Times Modal
+* [Blog starting page][4], on each respective category card
+* [Blog category pages][5], on the blog category cards under the See Also heading
+* [Blog Inspiration from Others page][6], on the hyperlinked images
+
+[CSS also used to enable this][2]
 
 ### Home
-* Hero header and slogan - to give users an engaging introduction to the website
+* [Hero header and slogan][1] - to give users an engaging introduction to the website. HTML code 49-58 and [CSS code][2] code lines 120-128.
 * Introduction section with 'About Me', 'SMART Philosophy', and 'How I Can Help' sections - to give extended introduction to users of the website and what's being offered
 * Carousel for Testimomnial section, easily navigated with side cursor buttons and bars - to give users further information on the credibility of the coaching services being offered
 
