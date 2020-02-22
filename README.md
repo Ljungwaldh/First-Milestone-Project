@@ -275,6 +275,18 @@ To initially test the website I used the following validators:
 
 ## User Stories
 
+Depending on the scope of information users from to cover for the purpoe of assessing the coach's credibility and the services provided, the path can be as short as
+Home > Contact to the most elaborate user path of Home > Training > Blog > For Player/For Coaches/Inspiration from Others > Contact. This will all depend on the user's
+previous knowledge of the website, their willingness to spend and how clear their needs are in terms of coaching services. 
+
+Some Users could go through the path of Home > Training > Contact since the training page contaxct two calls to action to redirect users to the contact page, these being the
+promotion button, and the 'Book Training' button in the modal for Training Times. This path contains a sufficient amount of information to give good credibility of the coach
+from the home page, the information of training types, and then the special offer to conveniently direct users to booking training. The Blog pages can support the credibility
+building process for users should it be needed.
+
+## User Stories Testing based on UX section
+
+
 
 
 
