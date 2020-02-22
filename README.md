@@ -213,15 +213,6 @@ button the information will be submitted and the Contact page will be reloaded.
 * Background image setting dominant colour theme, defining what colours to be used throughout different parts of the website. This is meant to elicit positive emotional responses from the user with good colour contrasting. [CSS code][2] lines 16-20.
 * Responsiveness on all pages, done with a mobile-first approach, so that users can easily interact with the website on any device. Respomsioveness covers the masjority of code in the project.
 
-[1]: <https://github.com/Ljungwaldh/First-Milestone-Project/blob/master/index.html>
-[2]: <https://github.com/Ljungwaldh/First-Milestone-Project/blob/master/assets/css/style.css>
-[3]: <https://github.com/Ljungwaldh/First-Milestone-Project/blob/master/training.html>
-[4]: <https://github.com/Ljungwaldh/First-Milestone-Project/blob/master/blog-start.html>
-[5]: <https://github.com/Ljungwaldh/First-Milestone-Project/blob/master/blog-players.html>
-[6]: <https://github.com/Ljungwaldh/First-Milestone-Project/blob/master/blog-inspiration.html>
-[7]: <https://github.com/Ljungwaldh/First-Milestone-Project/blob/master/blog-coaches.html>
-[8]: <https://github.com/Ljungwaldh/First-Milestone-Project/blob/master/contact.html>
-
 ### Present on Some Pages
 
 Hover effect on content to give users subtle feedback on the content they are hovering over/focusing on and to give a sense of interactiveness, found in following places:
@@ -234,33 +225,42 @@ Hover effect on content to give users subtle feedback on the content they are ho
 [CSS also used to enable this][2]
 
 ### Home
-* [Hero header and slogan][1] - to give users an engaging introduction to the website. HTML code 49-58 and [CSS code][2] code lines 120-128.
-* Introduction section with 'About Me', 'SMART Philosophy', and 'How I Can Help' sections - to give extended introduction to users of the website and what's being offered
-* Carousel for Testimomnial section, easily navigated with side cursor buttons and bars - to give users further information on the credibility of the coaching services being offered
+* [Hero header and slogan][1] - to give users an engaging introduction to the website
+* [Introduction section][1] with 'About Me', 'SMART Philosophy', and 'How I Can Help' sections - to give extended introduction to users of the website and what's being offered
+* [Carousel for Testimomnial section][1], easily navigated with side cursor buttons and bars - to give users further information on the credibility of the coaching services being offered
 
 ### Training
-* Promotion button by the page header that redirects users who would be pursuaded to send a service request based on the promotion
-* Training offer information for 'Individuals', 'Groups', and 'Teams', where users can learn more avbout pricing and conditions
-* Embedded Google Map location to give users more information about where trainings take place
-* Training Times button that redirects users to a modal, where they can see the time availability/business hours as well as have the option to redirect themselves to the Contact page to make a service request
+* [Promotion button][3] by the page header that redirects users who would be pursuaded to send a service request based on the promotion
+* [Training offer information][3] for 'Individuals', 'Groups', and 'Teams', where users can learn more about pricing and conditions
+* [Embedded Google Map location][3] to give users more information about where trainings take place
+* [Training Times button that redirects users to a modal][3], where they can see the time availability/business hours as well as have the option to redirect themselves to the Contact page to make a service request
 
 ### Blog Page - Start
 
-* Clickable cards to redirect users towards blog content in the chosen category, categories including 'For Players', 'For Coaches', and 'Inspiration from Others'
+* [Clickable cards][4] to redirect users towards blog content in the chosen category, categories including 'For Players', 'For Coaches', and 'Inspiration from Others'
 
 ### Blog Page - For Players & For Coaches
 
-* Blog post with image, text and embedded Youtube content, so the user can have a dynamic experience when consuming content from these blog posts
-* Clickable cards that redirect users to one of two of the other blog categories
+* Blog post pages for [Players][5] and for [Coaches][7] with image, text and embedded Youtube content, so the user can have a dynamic experience when consuming content from these blog posts
+* [Clickable cards][4] that redirect users to one of two of the other blog categories
 
 ### Blog Page - Inspiration from Others
 
-* Blog post with image, text and hyperlinked images so users can easily find where they can buy the recommended books mentioned in the blog post
-* Clickable cards that redirect users to one of two of the other blog categories
+* [Blog post][6] with image, text and hyperlinked images so users can easily find where they can buy the recommended books mentioned in the blog post
+* [Clickable cards][4] that redirect users to one of two of the other blog categories
 
 ### Contact
 
-* Contact form where users can state their inquiry type, types of training their interested in, their contact details, and any additonal information they want to communicate. This is all to ensure that users feel they can give all the relelvant information they can depeding on if they have question, want more information, or want to book training
+* [Contact form][8] where users can state their inquiry type, types of training their interested in, their contact details, and any additonal information they want to communicate. This is all to ensure that users feel they can give all the relelvant information they can depeding on if they have question, want more information, or want to book training
+
+[1]: <https://github.com/Ljungwaldh/First-Milestone-Project/blob/master/index.html>
+[2]: <https://github.com/Ljungwaldh/First-Milestone-Project/blob/master/assets/css/style.css>
+[3]: <https://github.com/Ljungwaldh/First-Milestone-Project/blob/master/training.html>
+[4]: <https://github.com/Ljungwaldh/First-Milestone-Project/blob/master/blog-start.html>
+[5]: <https://github.com/Ljungwaldh/First-Milestone-Project/blob/master/blog-players.html>
+[6]: <https://github.com/Ljungwaldh/First-Milestone-Project/blob/master/blog-inspiration.html>
+[7]: <https://github.com/Ljungwaldh/First-Milestone-Project/blob/master/blog-coaches.html>
+[8]: <https://github.com/Ljungwaldh/First-Milestone-Project/blob/master/contact.html>
 
 ## Features Left to Implement and Ideas for Future Development
 
@@ -278,12 +278,20 @@ Hover effect on content to give users subtle feedback on the content they are ho
 
 # Technologies Used
 
-* BoostrapCDN with Bootstrap 4 is utilized in order to give responsive structure for the website
-* jQuery and Popper.js, to enable componenets within Bootstrap, especialy in terms of enabling a responsive navigatiomn bar
-* Google Fonts - used to obtain the font families used throughout project of Oswald (for headers) and Roboto (for normal text)
-* Font Awesome - icons that are enabled by Bootstrap 4, these icons providing basis on social media link icons and the website brand logo
-* JavascriptCDN in order to enable hover selectors
-* Pexels.com was one of my sources to find license-free photos, but this webnsite also provided great technology in giving different options for resolution download as well as the option for custom resolution size specification
+* [BoostrapCDN][9] with **Bootstrap 4** is utilized in order to give responsive structure for the website
+* [jQuery][10] and [Popper.js][11], to enable componenets within Bootstrap, especialy in terms of enabling a responsive navigatiomn bar
+* [Google Fonts][12] - used to obtain the font families used throughout project of Oswald (for headers) and Roboto (for normal text)
+* [Font Awesome][15] - icons that are enabled by Bootstrap 4, these icons providing basis on social media link icons and the website brand logo
+* [JavascriptCDN Hover.css][13] in order to enable hover selectors
+* [Pexels.com][14] was one of my sources to find license-free photos, but this webnsite also provided great technology in giving different options for resolution download as well as the option for custom resolution size specification
+
+[9]: <https://getbootstrap.com/>
+[10]: <https://jquery.com/>
+[11]: <https://popper.js.org/>
+[12]: <https://fonts.google.com/>
+[13]: <https://ianlunn.co.uk/portfolio/hover-css/>
+[14]: <https://www.pexels.com/>
+[15]: <https://fontawesome.com/>
 
 # Testing
 
