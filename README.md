@@ -247,17 +247,33 @@ Hover effect on content to give users subtle feedback on the content they are ho
 
 # Testing
 
+## Code Validation
+
 To initially test the website I used the following validators:
 
-- W3C Markup Validation Service for HTML
+- W3C Markup Validation Service for HTML, inserting code via direct input
     - index.html - found only two warnings regarding number of hyphens used in two comment lines (code lines 103 and 224), these hyphens being removed subsequently
-    - training-html - Encountered such as:
-        - having buttons elements as descendents of anchor elements - resolved by removing the anchor elements on buttons and reformatting the buttons in HTML and CSS
+    - training.html - Encountered errors such as:
+        - Having buttons elements as descendents of anchor elements - resolved by removing the anchor elements on buttons and reformatting the buttons in HTML and CSS
+        - Leaving unordored list elements without a closing tag, causing snowball effect on div's indicating unorderded list were still open
+        - Having h5 elements within buttons - resolved this by removing h5 elements within buttons and reformatting the CSS to give the same presentation as before the validator check
+        - Running code again through the validator came out with a positive result, with no errors/warnings
+    - contact.html - single syntax error on code line 92 where select ID didn't match the syntax of the label for attribute in code line 91, checked code again subsequently with no errors/warnings
+    - blog-start.html - No errors/warnings found
+    - blog-players.html - No errors/warnings found
+    - blog-coaches.html - No errors/warnings found
+    - blog-inspiration - No errors/warnings found
 
 - W3C CSS Validation Service 
-    - no errors was found when checking code via direct input of my CSS code
+    - No errors were found on my first check of the code via direct input of my CSS code
+    - Second check conducted after editing HTML and CSS code to rectify previous errors encountered on HTML validator, again no errors/warnings found
 
-# Depoloyment
+## User Stories
+
+
+
+
+# Deployment
 
 
 
@@ -310,4 +326,4 @@ Credit to code from W3Schools for syntax for buttons. Button used for promotion 
 Credit to code from W3Schools for syntax regarding styling the :hover selector. Utilized this for giving subtle feedback for users when mouse hovers over content sections. https://www.w3schools.com/cssref/sel_hover.asp
 Credt to Chris Coyier on CSSTricks.com for code that I used to style my background image further to be centered and responsive to different screen sizes: https://css-tricks.com/perfect-full-page-background-image/
 Credit to Seybsen on Stack Overflow for what code to apply to make a selection of one of three of my radio buttons required: https://stackoverflow.com/questions/8287779/how-to-use-the-required-attribute-with-a-radio-input-field
-Credit to Manas Chhabra for providing solution to adding link to buttons, so I could replace anchor elements on buttons with the onclick button class to redirect users to contact.html https://www.geeksforgeeks.org/how-to-create-an-html-button-that-acts-like-a-link/
+Credit to Manas Chhabra on GeeksforGeeks.org for providing solution to adding link to buttons, so I could replace anchor elements on buttons with the onclick button class to redirect users to contact.html https://www.geeksforgeeks.org/how-to-create-an-html-button-that-acts-like-a-link/
