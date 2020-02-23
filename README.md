@@ -488,47 +488,37 @@ Further troubleshooting on how to run the project locally can be found [here][20
 ### Photos
 [Photo by Milad B. Fakurian on Unsplash][21] used for the background image of the website
 
-Photos by Retha Ferguson on Pexels for [testominal-1][22] and [testimonal-2][23] images 
+Photos by Retha Ferguson on Pexels for [testominal-1.jpg][22] and [testimonal-2.jpg][23] images 
 
+Photos by Pixabay on Pexels for [testimonial-3.jpg][24], [testimonial-4.jpg][25], [smart.jpg][26], and [player-blog.jpg][27] images
 
+Photo by thiszun on Pexels for [testimonial-5.jpg][28] image
 
-Photo by Pixabay on Pexels:
-https://www.pexels.com/photo/man-in-red-nike-jersey-shirt-playing-soccer-159555/
-https://www.pexels.com/photo/man-in-black-pants-playing-soccer-during-daytime-159516/
-https://www.pexels.com/photo/abstract-blackboard-bulb-chalk-355948/
-https://www.pexels.com/photo/people-men-grass-sport-2209/
+Photo by Luis Quintero from Pexels for [testimonial-6.jpg][29] image 
 
-Photo by thiszun on Pexels https://www.pexels.com/photo/woman-wearing-football-shirt-3653376/
+Photo by Jeffrey F Lin on Unsplash for [team-training.jpg][30], [group-training.jpg][31], and [coach-blog.jpg][32] images
 
-Photo by Luis Quintero from Pexels https://www.pexels.com/photo/photo-of-smiling-man-in-yellow-and-black-adidas-jersey-shirt-with-his-thumb-up-2106220/
+Photo by Jim Strasma on Unsplash for [individual-training.jpg][33] image
 
-Photo by Jeffrey F Lin on Unsplash:
-https://unsplash.com/photos/TkS6V8YTdy8
-https://unsplash.com/photos/YAO8wn1t_MY
-https://unsplash.com/photos/nKcx6jbFE-A
+Photo by Arseny Togulev on Unsplash [help-you.jpg][34] image
 
-Photo by Jim Strasma on Unsplash https://unsplash.com/photos/igGnYLxCOas
-
-Photo by Arseny Togulev on Unsplash https://unsplash.com/photos/ADpnzgPdAWE
-
-Photo by Marvin Ronsdorf on Unsplash https://unsplash.com/photos/EqbE_NkXPfc
+Photo by Marvin Ronsdorf on Unsplash [inspiration-blog.jpg][35] image
 
 [21]: <https://unsplash.com/photos/Sx__zWdWqPs>
 [22]: <https://www.pexels.com/photo/woman-in-black-t-shirt-and-black-shorts-sitting-on-grass-3621884/>
 [23]: <https://www.pexels.com/photo/woman-in-black-crew-neck-t-shirt-standing-beside-soccer-goal-net-3618531/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels>
-[24]: <>
-[25]: <>
-[26]: <>
-[27]: <>
-[28]: <>
-[29]: <>
-[30]: <>
-[31]: <>
-[32]: <>
-[33]: <>
-[34]: <>
-[35]: <>
-[36]: <>
+[24]: <https://www.pexels.com/photo/man-in-red-nike-jersey-shirt-playing-soccer-159555/>
+[25]: <https://www.pexels.com/photo/man-in-black-pants-playing-soccer-during-daytime-159516/>
+[26]: <https://www.pexels.com/photo/abstract-blackboard-bulb-chalk-355948/>
+[27]: <https://www.pexels.com/photo/people-men-grass-sport-2209/>
+[28]: <https://www.pexels.com/photo/woman-wearing-football-shirt-3653376/>
+[29]: <https://www.pexels.com/photo/photo-of-smiling-man-in-yellow-and-black-adidas-jersey-shirt-with-his-thumb-up-2106220/>
+[30]: <https://unsplash.com/photos/TkS6V8YTdy8>
+[31]: <https://unsplash.com/photos/YAO8wn1t_MY>
+[32]: <https://unsplash.com/photos/nKcx6jbFE-A>
+[33]: <https://unsplash.com/photos/igGnYLxCOas>
+[34]: <https://unsplash.com/photos/ADpnzgPdAWE>
+[35]: <https://unsplash.com/photos/EqbE_NkXPfc>
 
 
 ### Videos
