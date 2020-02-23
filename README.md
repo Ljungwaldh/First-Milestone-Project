@@ -345,35 +345,41 @@ building process for users should it be needed.
 2. As a new visitor to the website, I want to get ideas for training and/or coaching football, so that I can be a better player and/or coach
     1. The navigation bar is visible at all times, so the user can access the Blog menu item. From there, users can access the blog category they wish to read content from
     2. The blog posts are dynamic and can give content produced by the website crestor himself and/or find further content by the ones providing the videos/books recommended
+
+![Screenshot of Home page for Gustaf Ljungwaldh's First Milestone project](website-screenshots/blog-start-1.png)
+![Screenshot of Home page for Gustaf Ljungwaldh's First Milestone project](website-screenshots/blog-players-1.png)
+![Screenshot of Home page for Gustaf Ljungwaldh's First Milestone project](website-screenshots/blog-players-2.png)
+![Screenshot of Home page for Gustaf Ljungwaldh's First Milestone project](website-screenshots/blog-coaches-1.png)
+![Screenshot of Home page for Gustaf Ljungwaldh's First Milestone project](website-screenshots/blog-coaches-2.png)
+![Screenshot of Home page for Gustaf Ljungwaldh's First Milestone project](website-screenshots/blog-inspiration-1.png)
+![Screenshot of Home page for Gustaf Ljungwaldh's First Milestone project](website-screenshots/blog-inspiration-2.png)
+
 3. As a new visitor/potential customer to the website, I want to know more about the coach himself, so that I can judge for myself whether I think he is credible or not
     1. The user on the Home page can scroll down to immediately read more about the coach, the website and the services being provided, to inform users straight away of the coach's credentials/experience
     2. A testimonial section follows the introduction section, where users can find further content that illustrates a positive image of the coach
-    3. If a user wishes to know more about the coach and the knowledge he has of soccer, one can easily navigate to the Blog section of the website and read the blog posts available in each respective blog category
+    3. If a user wishes to know more about the coach and the knowledge he has of soccer, one can easily navigate to the Blog section of the website and read the blog posts available in each respective blog category (as shown in User Story 2)
     4. The footer is consistent throughout the website, where social media icons linked to social media pages can provide even more information about the coach and content he is creating elsewhere
+
+![Screenshot of Home page for Gustaf Ljungwaldh's First Milestone project](website-screenshots/home-page-2.png)
+![Screenshot of Home page for Gustaf Ljungwaldh's First Milestone project](website-screenshots/home-page-3.png)
+
 4. As a potential customer, I want to have a clearly communicated pricing model of his services, so I can consider the cost factor in my decision making process
     1. Easy navigation to the Training page of the website is possible through the navigation bar, where types of training and their pricing models, plus conditions and availability are well defined in a clear and concise manner
+
+![Screenshot of Home page for Gustaf Ljungwaldh's First Milestone project](website-screenshots/training-page-1.png)
+![Screenshot of Home page for Gustaf Ljungwaldh's First Milestone project](website-screenshots/training-page-2.png)
+![Screenshot of Home page for Gustaf Ljungwaldh's First Milestone project](website-screenshots/training-page-3.png)
+![Screenshot of Home page for Gustaf Ljungwaldh's First Milestone project](website-screenshots/training-page-4.png)
+
 5. As a potential customer, I want the process of requesting his services to be as clear, simple, and intuitive as possible, so that I know what to do once I've made my decision and I can execute on this quickly
     1. The contact page is simple and intuitive, with a contact form where users can clearly state their intention to book coaching services
-6. As an observer/potential customer, I want a clear and easy way of contacting the coach, so I can get in touch with him in regards to anything that doesn't concern the service request form, for example, any questions I have.
-    1. Through the contact form in the COntact page, a user can clearly state their intention also to get in touch with the coach for other matter asides from making a booking, this being done by stating inquiry type as 'I have a Question(s)'
-7. As a returning customer, where I already know what I want, want to be able to easily navigate to the service request form
-    1. A returning user can easily navigate to the Contact page where they can fill in the form and state their intention clearly that their inquiry concerns booking coaching services
 
-[57]: <website-screenshots/home-page-1.png>
-[58]: <>
-[59]: <>
-[60]: <>
-[61]: <>
-[62]: <>
-[63]: <>
-[64]: <>
-[65]: <>
-[]: <>
-[]: <>
-[]: <>
-[]: <>
-[]: <>
-[]: <>
+![Screenshot of Home page for Gustaf Ljungwaldh's First Milestone project](website-screenshots/contact-1.png)
+
+6. As an observer/potential customer, I want a clear and easy way of contacting the coach, so I can get in touch with him in regards to anything that doesn't concern the service request form, for example, any questions I have.
+    1. Through the contact form in the Contact page, a user can clearly state their intention also to get in touch with the coach for other matter asides from making a booking, this being done by stating inquiry type as 'I have a Question(s)' (As shown in User Story 5)
+7. As a returning customer, where I already know what I want, want to be able to easily navigate to the service request form
+    1. A returning user can easily navigate to the Contact page where they can fill in the form and state their intention clearly that their inquiry concerns booking coaching services (As shown in User Story 5)
 
 ## Manual Testing of website (functionality and elemenets)
 
