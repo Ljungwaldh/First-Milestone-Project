@@ -504,6 +504,8 @@ Photo by Arseny Togulev on Unsplash [help-you.jpg][34] image
 
 Photo by Marvin Ronsdorf on Unsplash [inspiration-blog.jpg][35] image
 
+[This book front cover image][36] and the other [book front cover image][37] coming from SoccerTutor.com for the [book adverts][6] on the Inspiration from Others Blog page
+
 [21]: <https://unsplash.com/photos/Sx__zWdWqPs>
 [22]: <https://www.pexels.com/photo/woman-in-black-t-shirt-and-black-shorts-sitting-on-grass-3621884/>
 [23]: <https://www.pexels.com/photo/woman-in-black-crew-neck-t-shirt-standing-beside-soccer-goal-net-3618531/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels>
@@ -519,11 +521,17 @@ Photo by Marvin Ronsdorf on Unsplash [inspiration-blog.jpg][35] image
 [33]: <https://unsplash.com/photos/igGnYLxCOas>
 [34]: <https://unsplash.com/photos/ADpnzgPdAWE>
 [35]: <https://unsplash.com/photos/EqbE_NkXPfc>
+[36]: <https://shop.soccertutor.com/Pep-Guardiola-Attacking-Combinations-Positional-p/st-b049.htm>
+[37]: <https://shop.soccertutor.com/Pep-Guardiola-Attacking-Tactics-Tactical-Analysis-p/st-b048.htm>
 
 
 ### Videos
 
+[Video by Unisport channel on Youtube][38] for video content in the [Players Blog][5] page
+[Video by FAI TV channel on Youtube][39] for video content in the [Coaches Blog][7] page
 
+[38]: <https://www.youtube.com/watch?v=Y8i6QDPQ0v0>
+[39]: <https://www.youtube.com/watch?v=cwTzqHTKdf4>
 
 
 ## Code
@@ -550,3 +558,7 @@ Credit to Manas Chhabra on GeeksforGeeks.org for providing solution to adding li
 
 ## Acknowledgements
 
+
+### Disclaimer
+
+This website is purely for educational purposes
