@@ -242,12 +242,12 @@ Hover effect on content to give users subtle feedback on the content they are ho
 ### Blog Page - For Players & For Coaches
 
 * Blog post pages for [Players][5] and for [Coaches][7] with image, text and embedded Youtube content, so the user can have a dynamic experience when consuming content from these blog posts
-* [Clickable cards][4] that redirect users to one of two of the other blog categories
+* [Clickable cards][5] that redirect users to one of two of the other blog categories (present on both blog pages for Players and for Coaches)
 
 ### Blog Page - Inspiration from Others
 
 * [Blog post][6] with image, text and hyperlinked images so users can easily find where they can buy the recommended books mentioned in the blog post
-* [Clickable cards][4] that redirect users to one of two of the other blog categories
+* [Clickable cards][6] that redirect users to one of two of the other blog categories
 
 ### Contact
 
@@ -535,26 +535,58 @@ Photo by Marvin Ronsdorf on Unsplash [inspiration-blog.jpg][35] image
 
 
 ## Code
-Inspiration for Carousel slider coming from code by Grzegorz Agacinski on Codepen https://codepen.io/gagacinski/pen/MMWdwb
-Inspiration for Bootstrap Navbar styling coming from code by Katie Frances on Medium https://medium.com/coder-grrl/the-guide-to-customising-the-bootstrap-4-navbar-i-wish-id-had-6-months-ago-7bc6ce0e3c71
-Inspiration on object-fit usage to crop imkages coming from code by Alligator.io https://alligator.io/css/cropping-images-object-fit/
-Used this code to amke my smart.jpg image black and white, code from W3Schools https://www.w3schools.com/cssref/css3_pr_filter.asp
-Used code from user-centric front-end module in Code Insitute program to give initial structure for social media icons. Used some code structure for styling anchor link (for my promotion offer). Code produced by Code-Insitute-Solutions on GitHub:
-https://github.com/Code-Institute-Solutions/resume-miniproject-bootstrap4/blob/master/18-resume-for-download/resume.html
-Used code from user-centric front-end module in Code Insitute program to give indication of pixel sizes for width when defining my media query for my carousel. Code produced by Code-Insitute-Solutions on GitHub:
-https://github.com/Code-Institute-Solutions/resume-miniproject-bootstrap4/blob/master/18-resume-for-download/assets/css/style.css
-Inspiration for using positioning property in my CSS provided by W3Schools: https://www.w3schools.com/cssref/pr_class_position.asp
-CSS font-weight property to make my promotion text in training.html stand out more found in W3Schools https://www.w3schools.com/css/tryit.asp?filename=trycss_font-weight
-Obtained css property to add shadow overlay on background image throughout website. Credits to BevansDesign on Stack Overflow https://stackoverflow.com/questions/9182978/semi-transparent-color-layer-over-background-image
-Text-align css styling used for aligning unordered list items in my introduction section to align to the left, to give a better appearance than being centered by the bootstrap class of the column. Code provided by W3Schools https://www.w3schools.com/css/tryit.asp?filename=trycss_text-align
-Obtained base code for how to code a media query, to be used in adding media queries for my carousel on index.html, presenting a given carousel type depending on screen size. Code provided by W3Schools https://www.w3schools.com/css/css3_mediaqueries.asp
-Obtained base code for setting iframes for Youtube videos, used thios so I could present Youtube videos on my blog posts. Code provided by W3Schools https://www.w3schools.com/html/html_youtube.asp
-Credit to T.Touda for code that provided base for sorting out central positioning of Youtube videos in blog post pages. Solution found on Stack Overflow: https://stackoverflow.com/questions/22433616/how-can-i-align-youtube-embedded-video-in-the-center-in-bootstrap
-Credit to code from W3Schools for syntax for buttons. Button used for promotion on my training.html page https://www.w3schools.com/tags/tag_button.asp
-Credit to code from W3Schools for syntax regarding styling the :hover selector. Utilized this for giving subtle feedback for users when mouse hovers over content sections. https://www.w3schools.com/cssref/sel_hover.asp
-Credt to Chris Coyier on CSSTricks.com for code that I used to style my background image further to be centered and responsive to different screen sizes: https://css-tricks.com/perfect-full-page-background-image/
-Credit to Seybsen on Stack Overflow for what code to apply to make a selection of one of three of my radio buttons required: https://stackoverflow.com/questions/8287779/how-to-use-the-required-attribute-with-a-radio-input-field
-Credit to Manas Chhabra on GeeksforGeeks.org for providing solution to adding link to buttons, so I could replace anchor elements on buttons with the onclick button class to redirect users to contact.html https://www.geeksforgeeks.org/how-to-create-an-html-button-that-acts-like-a-link/
+Inspiration for Carousel slider coming from code by [Grzegorz Agacinski on Codepen][40], providing base for testimonial carousel which I built upon in index.html [code lines 104-222][1] 
+
+Inspiration for Bootstrap Navbar styling coming from code by [Katie Frances on Medium][41], providing basis for adding HTML code on line 19 on [every page][1] and [CSS code lines 80-82][2]
+
+Inspiration on object-fit usage to crop imkages coming from code by [Alligator.io][42], subsequently utilized in [CSS code line 58][2]
+
+[Used this code][43] to make my smart.jpg image black and white, code from W3Schools, this code placed in [CSS code lines 179-181][2]
+
+[Used code from user-centric front-end module in Code Insitute program][44] to give initial structure for social media icons in the [footer of all pages][1]. Code produced by Code-Insitute-Solutions on GitHub
+
+[Used code from user-centric front-end module in Code Insitute program][45] to give indication of pixel sizes for width when defining my media query for my carousel, which is applied in my [CSS code lines 595 and 601][2]. 
+Also used code structure for styling my promotion button on training.html, which is applied in my [CSS code lines 260-263][2]. Code produced by Code-Insitute-Solutions on GitHub
+
+CSS font-weight property to make my promotion text in training.html stand out more, [code produced by W3Schools][46], applied to [CSS code line 256][2]
+
+Obtained CSS property to add shadow overlay on background image throughout website. Credits to [BevansDesign on Stack Overflow][47], code applied in [CSS code line 22][2]
+
+Text-align CSS styling used for aligning unordered list items in my introduction section to align to the left, to give a better appearance than being centered by the bootstrap class of the column. [Code provided by W3Schools][48], [Code applied to CSS code line 161][2]
+
+Obtained base code for how to code a media query, to be used in adding media queries for my carousel on index.html, presenting a given carousel type depending on screen size. [Code provided by W3Schools][49], [applied to CSS code lines 595-605][2]
+
+Obtained base code for setting iframes for Youtube videos, used thios so I could present Youtube videos on my blog posts. [Code provided by W3Schools][50], applied in HTML [code lines 87-88 in blog-players.html][5] and [code lines 84-85 in blog-coaches.html][7]
+
+[Credit to T.Touda][51] for code that provided base for sorting out central positioning of Youtube videos in blog post pages. Solution found on Stack Overflow, applied to [CSS code lines 66-67][2]
+
+[Credit to code from W3Schools][52] for syntax for buttons. Button used for promotion on my training.html page, replacing anchored text, code applied to [training.html code line 60][3]
+
+[Credit to code from W3Schools][53] for syntax regarding styling the :hover selector. Utilized this for giving subtle feedback for users when mouse hovers over content sections. Code applied to many areas within the [CSS code][2]
+
+[Credit to Chris Coyier on CSSTricks.com][54] for code that I used to style my background image further to be centered and responsive to different screen sizes. Appllied to [CSS code lines 16-20][2]
+
+[Credit to Seybsen on Stack Overflow][55] for what code to apply to make a selection of one of three of my radio buttons required. Applied to [contact.html code line 71][8]
+
+[Credit to Manas Chhabra on GeeksforGeeks.org][56] for providing solution to adding link to buttons, so I could replace anchor elements on buttons with the onclick button class to redirect users to contact.html. Code applied to [all buttons within training.html][3]
+
+[40]: <https://codepen.io/gagacinski/pen/MMWdwb>
+[41]: <https://medium.com/coder-grrl/the-guide-to-customising-the-bootstrap-4-navbar-i-wish-id-had-6-months-ago-7bc6ce0e3c71>
+[42]: <https://alligator.io/css/cropping-images-object-fit/>
+[43]: <https://www.w3schools.com/cssref/css3_pr_filter.asp>
+[44]: <https://github.com/Code-Institute-Solutions/resume-miniproject-bootstrap4/blob/master/18-resume-for-download/resume.html>
+[45]: <https://github.com/Code-Institute-Solutions/resume-miniproject-bootstrap4/blob/master/18-resume-for-download/assets/css/style.css>
+[46]: <https://www.w3schools.com/css/tryit.asp?filename=trycss_font-weight>
+[47]: <https://stackoverflow.com/questions/9182978/semi-transparent-color-layer-over-background-image>
+[48]: <https://www.w3schools.com/css/tryit.asp?filename=trycss_text-align>
+[49]: <https://www.w3schools.com/css/css3_mediaqueries.asp>
+[50]: <https://www.w3schools.com/html/html_youtube.asp>
+[51]: <https://stackoverflow.com/questions/22433616/how-can-i-align-youtube-embedded-video-in-the-center-in-bootstrap>
+[52]: <https://www.w3schools.com/tags/tag_button.asp>
+[53]: <https://www.w3schools.com/cssref/sel_hover.asp>
+[54]: <https://css-tricks.com/perfect-full-page-background-image/>
+[55]: <https://stackoverflow.com/questions/8287779/how-to-use-the-required-attribute-with-a-radio-input-field>
+[56]: <https://www.geeksforgeeks.org/how-to-create-an-html-button-that-acts-like-a-link/>
 
 ## Acknowledgements
 
