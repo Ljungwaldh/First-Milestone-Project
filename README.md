@@ -482,7 +482,7 @@ Further troubleshooting on how to run the project locally can be found [here][20
 
 ##Content
 
-* Inspiration for structure in writing up my README.md comes from [AJ Greaves on GitHub][57], a structure I built upon and made sure to make my README.md contain unique content structure as well 
+* Inspiration for structure when writing up my README.md coming from [AJ Greaves on GitHub][57], a structure I built upon and made sure to make my README.md contain unique content structure as well 
 
 [57]: <https://github.com/AJGreaves/portrait-artist/blob/master/README.md>
 
