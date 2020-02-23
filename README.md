@@ -284,6 +284,7 @@ Hover effect on content to give users subtle feedback on the content they are ho
 * [Font Awesome][15] - icons that are enabled by Bootstrap 4, these icons providing basis on social media link icons and the website brand logo
 * [JavascriptCDN Hover.css][13] in order to enable hover selectors
 * [Pexels.com][14] was one of my sources to find license-free photos, but this webnsite also provided great technology in giving different options for resolution download as well as the option for custom resolution size specification
+* [GitPod][16] as my IDE where I wrote the code for this project and devewloped this website. This tool was used also to commit to Git and push to the GitHub repository
 
 [9]: <https://getbootstrap.com/>
 [10]: <https://jquery.com/>
@@ -292,6 +293,7 @@ Hover effect on content to give users subtle feedback on the content they are ho
 [13]: <https://ianlunn.co.uk/portfolio/hover-css/>
 [14]: <https://www.pexels.com/>
 [15]: <https://fontawesome.com/>
+[16]: <https://gitpod.io/>
 
 # Testing
 
@@ -299,7 +301,7 @@ Hover effect on content to give users subtle feedback on the content they are ho
 
 To initially test the website I used the following validators:
 
-- W3C Markup Validation Service for HTML, inserting code via direct input
+- [W3C Markup Validation Service for HTML][17], inserting code via direct input
     - index.html - found only two warnings regarding number of hyphens used in two comment lines (code lines 103 and 224), these hyphens being removed subsequently
     - training.html - Encountered errors such as:
         - Having buttons elements as descendents of anchor elements - resolved by removing the anchor elements on buttons and reformatting the buttons in HTML and CSS
@@ -312,9 +314,12 @@ To initially test the website I used the following validators:
     - blog-coaches.html - No errors/warnings found
     - blog-inspiration - No errors/warnings found
 
-- W3C CSS Validation Service 
+- [W3C CSS Validation Service][18]
     - No errors were found on my first check of the code via direct input of my CSS code
     - Second check conducted after editing HTML and CSS code to rectify previous errors encountered on HTML validator, again no errors/warnings found
+
+[17]: <https://validator.w3.org/>
+[18]: <https://jigsaw.w3.org/css-validator/#validate_by_input>
 
 ## User Stories
 
@@ -442,22 +447,24 @@ Code Institute ensured us that this isn't an issue to be concerned about in rega
 
 # Deployment
 
-I developed this project in GitPod, where I would commit to Git, and then push to GitHub via using the terminal in GitPod. I deployed this Github repository to GitHub pages via the following process:
+I developed this project in [GitPod IDE][16], where I would commit to Git, and then push to GitHub via using the terminal in GitPod. I deployed this [Github repository][19] to GitHub Pages via the following process:
 * Logged into GitHub
-* Under the tab 'Respositories', I selected First-Milestone-Project
-* Subsequently I selected 'Settings' from the menu at the top of the page
-* I scrolled down the page top the GitHub Pages section
-* On the dropdown bar under 'Source', I selected 'master branch'
+* Under the tab 'Respositories', I selected **First-Milestone-Project**
+* Subsequently I selected **'Settings'** from the menu at the top of the page
+* I scrolled down the page top the **GitHub Pages** section
+* On the dropdown bar under 'Source', I selected **'master branch'**
 * Once I selected 'master branch' the page reloaded, and the website was deployed
-* I scrolled down the page again to find the link to the deployed website witihn a green highlighted area of the GitHub pages section, where this section also notified me that my website is deployed
+* I scrolled down the page again to find the **link** to the deployed website witihn a green highlighted area of the GitHub pages section, where this section also notified me that my website is deployed
 
 The master branch was the only branch used for this website.
+
+[19]: <https://github.com/Ljungwaldh/First-Milestone-Project>
 
 ## How to run the project locally
 
 To clone the project from Github:
 
-1. Click the following link to come to the GitHub repository for this project
+1. Click the following link to come to the [GitHub repository][19] for this project
 2. Click on the green button 'Clone or Download'
 3. A dropdown window will appear titled 'Clone with HTTPS' - copy the link provided in the field below
 4. Open your local IDE
@@ -465,7 +472,9 @@ To clone the project from Github:
 6. Type in <code>git clone</code>, followed by pasting in the url copied from Step 3 alongside the git command.
 7. Press Enter, and the clone should subsequently be created
 
-Further troubleshooting on how to run the project locally can be found here (link).
+Further troubleshooting on how to run the project locally can be found [here][20].
+
+[20]: <https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository>
 
 
 # Credits
@@ -477,24 +486,50 @@ Further troubleshooting on how to run the project locally can be found here (lin
 ##Media
 
 ### Photos
-Photo by Milad B. Fakurian on Unsplash https://unsplash.com/photos/Sx__zWdWqPs
-Photos by Retha Ferguson on Pexels: 
-https://www.pexels.com/photo/woman-in-black-t-shirt-and-black-shorts-sitting-on-grass-3621884/
-https://www.pexels.com/photo/woman-in-black-crew-neck-t-shirt-standing-beside-soccer-goal-net-3618531/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels
+[Photo by Milad B. Fakurian on Unsplash][21] used for the background image of the website
+
+Photos by Retha Ferguson on Pexels for [testominal-1][22] and [testimonal-2][23] images 
+
+
+
 Photo by Pixabay on Pexels:
 https://www.pexels.com/photo/man-in-red-nike-jersey-shirt-playing-soccer-159555/
 https://www.pexels.com/photo/man-in-black-pants-playing-soccer-during-daytime-159516/
 https://www.pexels.com/photo/abstract-blackboard-bulb-chalk-355948/
 https://www.pexels.com/photo/people-men-grass-sport-2209/
+
 Photo by thiszun on Pexels https://www.pexels.com/photo/woman-wearing-football-shirt-3653376/
+
 Photo by Luis Quintero from Pexels https://www.pexels.com/photo/photo-of-smiling-man-in-yellow-and-black-adidas-jersey-shirt-with-his-thumb-up-2106220/
+
 Photo by Jeffrey F Lin on Unsplash:
 https://unsplash.com/photos/TkS6V8YTdy8
 https://unsplash.com/photos/YAO8wn1t_MY
 https://unsplash.com/photos/nKcx6jbFE-A
+
 Photo by Jim Strasma on Unsplash https://unsplash.com/photos/igGnYLxCOas
+
 Photo by Arseny Togulev on Unsplash https://unsplash.com/photos/ADpnzgPdAWE
+
 Photo by Marvin Ronsdorf on Unsplash https://unsplash.com/photos/EqbE_NkXPfc
+
+[21]: <https://unsplash.com/photos/Sx__zWdWqPs>
+[22]: <https://www.pexels.com/photo/woman-in-black-t-shirt-and-black-shorts-sitting-on-grass-3621884/>
+[23]: <https://www.pexels.com/photo/woman-in-black-crew-neck-t-shirt-standing-beside-soccer-goal-net-3618531/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels>
+[24]: <>
+[25]: <>
+[26]: <>
+[27]: <>
+[28]: <>
+[29]: <>
+[30]: <>
+[31]: <>
+[32]: <>
+[33]: <>
+[34]: <>
+[35]: <>
+[36]: <>
+
 
 ### Videos
 
@@ -522,3 +557,6 @@ Credit to code from W3Schools for syntax regarding styling the :hover selector. 
 Credt to Chris Coyier on CSSTricks.com for code that I used to style my background image further to be centered and responsive to different screen sizes: https://css-tricks.com/perfect-full-page-background-image/
 Credit to Seybsen on Stack Overflow for what code to apply to make a selection of one of three of my radio buttons required: https://stackoverflow.com/questions/8287779/how-to-use-the-required-attribute-with-a-radio-input-field
 Credit to Manas Chhabra on GeeksforGeeks.org for providing solution to adding link to buttons, so I could replace anchor elements on buttons with the onclick button class to redirect users to contact.html https://www.geeksforgeeks.org/how-to-create-an-html-button-that-acts-like-a-link/
+
+## Acknowledgements
+
