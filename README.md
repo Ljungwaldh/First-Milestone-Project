@@ -275,6 +275,7 @@ Hover effect on content to give users subtle feedback on the content they are ho
 * Prefilled contact form, where buttons on the Training page redirecting to the Contact page pre-select the radio button 'I want to Book Training' - this would require Javascript, which is out of scope for this project
 * Button on the home page to redirect users to the Training page - this would help guide users to make a natural next step to finding out more about training offers, enabling a smoother customer journey - would require more time to code further HTML and CSS input
 * 'Book Training' button being also present on the home page, allowing users that already know what they want and/or returning customers can navigate intuitively and efficiently to the contact form to request coaching services - would require more time to code further HTML and CSS input
+* Fixing bug with contact form, where if a user clicks the submit button without giving any responses a prompt message comes up only for the first required form item, the radio buttons, to have one selected, where ideally all required fields pop up with prompts - This would require more time to investigate solutions on how to have multiple form error prompts to appear at once
 
 # Technologies Used
 
@@ -481,30 +482,32 @@ Further troubleshooting on how to run the project locally can be found [here][20
 
 ##Content
 
-* Inspiration for writing up the README.md comes from AJ Greeaves on GitHub: https://github.com/AJGreaves/portrait-artist/blob/master/README.md
+* Inspiration for structure in writing up my README.md comes from [AJ Greeaves on GitHub][57], a structure I built upon and made sure to make my README.md contain unique content structure as well 
+
+[57]: <https://github.com/AJGreaves/portrait-artist/blob/master/README.md>
 
 ##Media
 
 ### Photos
-[Photo by Milad B. Fakurian on Unsplash][21] used for the background image of the website
+* [Photo by Milad B. Fakurian on Unsplash][21] used for the background image of the website
 
-Photos by Retha Ferguson on Pexels for [testominal-1.jpg][22] and [testimonal-2.jpg][23] images 
+* Photos by Retha Ferguson on Pexels for [testominal-1.jpg][22] and [testimonal-2.jpg][23] images 
 
-Photos by Pixabay on Pexels for [testimonial-3.jpg][24], [testimonial-4.jpg][25], [smart.jpg][26], and [player-blog.jpg][27] images
+* Photos by Pixabay on Pexels for [testimonial-3.jpg][24], [testimonial-4.jpg][25], [smart.jpg][26], and [player-blog.jpg][27] images
 
-Photo by thiszun on Pexels for [testimonial-5.jpg][28] image
+* Photo by thiszun on Pexels for [testimonial-5.jpg][28] image
 
-Photo by Luis Quintero from Pexels for [testimonial-6.jpg][29] image 
+* Photo by Luis Quintero from Pexels for [testimonial-6.jpg][29] image 
 
-Photo by Jeffrey F Lin on Unsplash for [team-training.jpg][30], [group-training.jpg][31], and [coach-blog.jpg][32] images
+* Photo by Jeffrey F Lin on Unsplash for [team-training.jpg][30], [group-training.jpg][31], and [coach-blog.jpg][32] images
 
-Photo by Jim Strasma on Unsplash for [individual-training.jpg][33] image
+* Photo by Jim Strasma on Unsplash for [individual-training.jpg][33] image
 
-Photo by Arseny Togulev on Unsplash [help-you.jpg][34] image
+* Photo by Arseny Togulev on Unsplash [help-you.jpg][34] image
 
-Photo by Marvin Ronsdorf on Unsplash [inspiration-blog.jpg][35] image
+* Photo by Marvin Ronsdorf on Unsplash [inspiration-blog.jpg][35] image
 
-[This book front cover image][36] and the other [book front cover image][37] coming from SoccerTutor.com for the [book adverts][6] on the Inspiration from Others Blog page
+* [This book front cover image][36] and the other [book front cover image][37] coming from SoccerTutor.com for the [book adverts][6] on the Inspiration from Others Blog page
 
 [21]: <https://unsplash.com/photos/Sx__zWdWqPs>
 [22]: <https://www.pexels.com/photo/woman-in-black-t-shirt-and-black-shorts-sitting-on-grass-3621884/>
@@ -527,48 +530,48 @@ Photo by Marvin Ronsdorf on Unsplash [inspiration-blog.jpg][35] image
 
 ### Videos
 
-[Video by Unisport channel on Youtube][38] for video content in the [Players Blog][5] page
-[Video by FAI TV channel on Youtube][39] for video content in the [Coaches Blog][7] page
+* [Video by Unisport channel on Youtube][38] for video content in the [Players Blog][5] page
+* [Video by FAI TV channel on Youtube][39] for video content in the [Coaches Blog][7] page
 
 [38]: <https://www.youtube.com/watch?v=Y8i6QDPQ0v0>
 [39]: <https://www.youtube.com/watch?v=cwTzqHTKdf4>
 
 
 ## Code
-Inspiration for Carousel slider coming from code by [Grzegorz Agacinski on Codepen][40], providing base for testimonial carousel which I built upon in index.html [code lines 104-222][1] 
+* Inspiration for Carousel slider coming from code by [Grzegorz Agacinski on Codepen][40], providing base for testimonial carousel which I built upon in index.html [code lines 104-222][1] 
 
-Inspiration for Bootstrap Navbar styling coming from code by [Katie Frances on Medium][41], providing basis for adding HTML code on line 19 on [every page][1] and [CSS code lines 80-82][2]
+* Inspiration for Bootstrap Navbar styling coming from code by [Katie Frances on Medium][41], providing basis for adding HTML code on line 19 on [every page][1] and [CSS code lines 80-82][2]
 
-Inspiration on object-fit usage to crop imkages coming from code by [Alligator.io][42], subsequently utilized in [CSS code line 58][2]
+* Inspiration on object-fit usage to crop imkages coming from code by [Alligator.io][42], subsequently utilized in [CSS code line 58][2]
 
-[Used this code][43] to make my smart.jpg image black and white, code from W3Schools, this code placed in [CSS code lines 179-181][2]
+* [Used this code][43] to make my smart.jpg image black and white, code from W3Schools, this code placed in [CSS code lines 179-181][2]
 
-[Used code from user-centric front-end module in Code Insitute program][44] to give initial structure for social media icons in the [footer of all pages][1]. Code produced by Code-Insitute-Solutions on GitHub
+* [Used code from user-centric front-end module in Code Insitute program][44] to give initial structure for social media icons in the [footer of all pages][1]. Code produced by Code-Insitute-Solutions on GitHub
 
-[Used code from user-centric front-end module in Code Insitute program][45] to give indication of pixel sizes for width when defining my media query for my carousel, which is applied in my [CSS code lines 595 and 601][2]. 
+* [Used code from user-centric front-end module in Code Insitute program][45] to give indication of pixel sizes for width when defining my media query for my carousel, which is applied in my [CSS code lines 595 and 601][2]. 
 Also used code structure for styling my promotion button on training.html, which is applied in my [CSS code lines 260-263][2]. Code produced by Code-Insitute-Solutions on GitHub
 
-CSS font-weight property to make my promotion text in training.html stand out more, [code produced by W3Schools][46], applied to [CSS code line 256][2]
+* CSS font-weight property to make my promotion text in training.html stand out more, [code produced by W3Schools][46], applied to [CSS code line 256][2]
 
-Obtained CSS property to add shadow overlay on background image throughout website. Credits to [BevansDesign on Stack Overflow][47], code applied in [CSS code line 22][2]
+* Obtained CSS property to add shadow overlay on background image throughout website. Credits to [BevansDesign on Stack Overflow][47], code applied in [CSS code line 22][2]
 
-Text-align CSS styling used for aligning unordered list items in my introduction section to align to the left, to give a better appearance than being centered by the bootstrap class of the column. [Code provided by W3Schools][48], [Code applied to CSS code line 161][2]
+* Text-align CSS styling used for aligning unordered list items in my introduction section to align to the left, to give a better appearance than being centered by the bootstrap class of the column. [Code provided by W3Schools][48], [Code applied to CSS code line 161][2]
 
-Obtained base code for how to code a media query, to be used in adding media queries for my carousel on index.html, presenting a given carousel type depending on screen size. [Code provided by W3Schools][49], [applied to CSS code lines 595-605][2]
+* Obtained base code for how to code a media query, to be used in adding media queries for my carousel on index.html, presenting a given carousel type depending on screen size. [Code provided by W3Schools][49], [applied to CSS code lines 595-605][2]
 
-Obtained base code for setting iframes for Youtube videos, used thios so I could present Youtube videos on my blog posts. [Code provided by W3Schools][50], applied in HTML [code lines 87-88 in blog-players.html][5] and [code lines 84-85 in blog-coaches.html][7]
+* Obtained base code for setting iframes for Youtube videos, used thios so I could present Youtube videos on my blog posts. [Code provided by W3Schools][50], applied in HTML [code lines 87-88 in blog-players.html][5] and [code lines 84-85 in blog-coaches.html][7]
 
-[Credit to T.Touda][51] for code that provided base for sorting out central positioning of Youtube videos in blog post pages. Solution found on Stack Overflow, applied to [CSS code lines 66-67][2]
+* [Credit to T.Touda][51] for code that provided base for sorting out central positioning of Youtube videos in blog post pages. Solution found on Stack Overflow, applied to [CSS code lines 66-67][2]
 
-[Credit to code from W3Schools][52] for syntax for buttons. Button used for promotion on my training.html page, replacing anchored text, code applied to [training.html code line 60][3]
+* [Credit to code from W3Schools][52] for syntax for buttons. Button used for promotion on my training.html page, replacing anchored text, code applied to [training.html code line 60][3]
 
-[Credit to code from W3Schools][53] for syntax regarding styling the :hover selector. Utilized this for giving subtle feedback for users when mouse hovers over content sections. Code applied to many areas within the [CSS code][2]
+* [Credit to code from W3Schools][53] for syntax regarding styling the :hover selector. Utilized this for giving subtle feedback for users when mouse hovers over content sections. Code applied to many areas within the [CSS code][2]
 
-[Credit to Chris Coyier on CSSTricks.com][54] for code that I used to style my background image further to be centered and responsive to different screen sizes. Appllied to [CSS code lines 16-20][2]
+* [Credit to Chris Coyier on CSSTricks.com][54] for code that I used to style my background image further to be centered and responsive to different screen sizes. Appllied to [CSS code lines 16-20][2]
 
-[Credit to Seybsen on Stack Overflow][55] for what code to apply to make a selection of one of three of my radio buttons required. Applied to [contact.html code line 71][8]
+* [Credit to Seybsen on Stack Overflow][55] for what code to apply to make a selection of one of three of my radio buttons required. Applied to [contact.html code line 71][8]
 
-[Credit to Manas Chhabra on GeeksforGeeks.org][56] for providing solution to adding link to buttons, so I could replace anchor elements on buttons with the onclick button class to redirect users to contact.html. Code applied to [all buttons within training.html][3]
+* [Credit to Manas Chhabra on GeeksforGeeks.org][56] for providing solution to adding link to buttons, so I could replace anchor elements on buttons with the onclick button class to redirect users to contact.html. Code applied to [all buttons within training.html][3]
 
 [40]: <https://codepen.io/gagacinski/pen/MMWdwb>
 [41]: <https://medium.com/coder-grrl/the-guide-to-customising-the-bootstrap-4-navbar-i-wish-id-had-6-months-ago-7bc6ce0e3c71>
@@ -590,7 +593,8 @@ Obtained base code for setting iframes for Youtube videos, used thios so I could
 
 ## Acknowledgements
 
+My mentor Anthony Ngene has been of great support in suggesting ideas such as a carousel for my testimonial section
 
 ### Disclaimer
 
-This website is purely for educational purposes
+This website is purely for educational purposes, as part of the curriculum of the Full-Time Full-Stack Development Program at the Code Institute
