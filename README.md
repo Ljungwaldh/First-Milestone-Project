@@ -339,6 +339,9 @@ building process for users should it be needed.
 1. As a new visitor to the website, I want to be able to navigate easily so I can find what I need efficiently
     1. Navigation bar is present through the whole website, fixed to the top of the screen at all times, so users can easily navigate to the different parts of the website
     2. The logo in the navigation bar redirects users back to the home page, no matter where they are, so they can easily navigate back to the start
+
+![Screenshot of Home page for Gustaf Ljungwaldh's First Milestone project](website-screenshots/home-page-1.png)
+
 2. As a new visitor to the website, I want to get ideas for training and/or coaching football, so that I can be a better player and/or coach
     1. The navigation bar is visible at all times, so the user can access the Blog menu item. From there, users can access the blog category they wish to read content from
     2. The blog posts are dynamic and can give content produced by the website crestor himself and/or find further content by the ones providing the videos/books recommended
@@ -355,6 +358,22 @@ building process for users should it be needed.
     1. Through the contact form in the COntact page, a user can clearly state their intention also to get in touch with the coach for other matter asides from making a booking, this being done by stating inquiry type as 'I have a Question(s)'
 7. As a returning customer, where I already know what I want, want to be able to easily navigate to the service request form
     1. A returning user can easily navigate to the Contact page where they can fill in the form and state their intention clearly that their inquiry concerns booking coaching services
+
+[57]: <website-screenshots/home-page-1.png>
+[58]: <>
+[59]: <>
+[60]: <>
+[61]: <>
+[62]: <>
+[63]: <>
+[64]: <>
+[65]: <>
+[]: <>
+[]: <>
+[]: <>
+[]: <>
+[]: <>
+[]: <>
 
 ## Manual Testing of website (functionality and elemenets)
 
