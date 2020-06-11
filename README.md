@@ -1,4 +1,4 @@
-# SMART Soccer Coaching Servcies
+# SMART Soccer Coaching Services
 
 This is a website built for educational purposes, where the context presented is to promote my (Gustaf Ljungwaldh's) coaching services, based in Stockholm, Sweden. 
 My coaching services would aim towards players, parents and soccer teams, as well as provide content that can help aspiring players/coaches. 
